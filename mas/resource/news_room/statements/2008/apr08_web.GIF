@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+ 
+	<head id="head">
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>MAS</title>
+	<meta name="author" content="Reading Room" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<link rel="stylesheet" href="http://www.mas.gov.sg/assets/css/style.css" />
+	<link rel="stylesheet" href="http://www.mas.gov.sg/assets/css/finder.css" />
+	<link rel="stylesheet" href="http://www.mas.gov.sg/assets/css/jquery-ui/jquery-ui-1.8.18.custom.css" />
+	<link rel="shortcut icon" href="http://www.mas.gov.sg/mas_favicon.ico" />
+		<script type="text/javascript" src="http://www.mas.gov.sg/assets/js/jquery.min.js"></script>
+		<script type="text/javascript" src="http://www.mas.gov.sg/assets/js/libs/jquery-ui-1.9.2.custom.min.js"></script>
+		<script type="text/javascript" src="http://www.mas.gov.sg/assets/js/libs/jquery.cycle.min.js"></script>
+		<script type="text/javascript" src="http://www.mas.gov.sg/assets/js/site.js"></script>
+        
+		<!--[if lt IE 9 ]>
+		<script type="text/javascript" src="http://www.mas.gov.sg/assets/js/libs/selectivizr-min.js"></script>
+		<script type="text/javascript" src="http://www.mas.gov.sg/assets/js/libs/respond.min.js"></script>
+		<![endif]-->   
+		<!--[if lt IE 7 ]>	
+		<script type="text/javascript" src="http://www.mas.gov.sg/assets/js/libs/dd_belatedpng.js"></script>
+		<script type="text/javascript">
+			j$(function () {
+			DD_belatedPNG.fix('img, div');
+			});
+		</script>
+		<![endif]--> 		
+		
+	</head>
+	
+    <!--[if lt IE 7 ]> <body class="ie ielt9 ie6 landing twocol"> <![endif]-->
+    <!--[if IE 7 ]>    <body class="ie ielt9 ie7 landing twocol"> <![endif]-->
+    <!--[if IE 8 ]>    <body class="ie ielt9 ie8 landing twocol"> <![endif]-->
+    <!--[if IE 9 ]>    <body class="ie ie9 landing twocol"> <![endif]-->
+    <!--[if (gt IE 9)|!(IE)]><!--> <body id="body" class="landing twocol"> <!--<![endif]--> 
+
+
+    
+	    <div id="feature-rotator-backgrounds-wrap">
+		    <div id="feature-rotator-backgrounds">
+			    <img id="background" alt=" " src="http://www.mas.gov.sg/~/media/Internal%20banner/About_MAS.ashx?20120623T1450361538" style="height:640px;width:1280px;" />
+       	    </div>
+	    </div>
+    
+		<div id="wrap">
+		
+			<div id="wrapper">
+ 
+                
+                <script type="text/javascript">
+                //<![CDATA[
+                    function removeSearch(element) {
+                        if (element.value == 'Search') {
+                            element.value = '';
+                        }
+                        return;
+                    }
+                    //]]>
+                </script>
+				<div id="header">
+                <p id="skip"><a href="#content">Skip to Content</a></p>
+					<h1><a href="http://www.mas.gov.sg/" title="MAS home" class="logo"><img src="http://www.mas.gov.sg/assets/images/logo_mas.gif" alt="Monetary Authority of Singapore" /></a></h1>
+		
+					<div id="header-right">
+						<a href="http://www.gov.sg" title="Singapore Government"><img src="http://www.mas.gov.sg/assets/images/logo_singapore-government.gif" alt="Singapore Government" class="sg-logo" /></a>
+		
+						<div class="menu">
+							<ul>
+							 <li><a href="http://www.mas.gov.sg/Email-Subscription.aspx">Email Subscription</a></li>	
+							 <li><a href="http://www.mas.gov.sg/FAQs.aspx">FAQs</a></li>
+							 <li><a href="http://www.mas.gov.sg/Contact-Information.aspx">Contact Information</a></li>
+							 <li><a href="http://www.mas.gov.sg/Feedback.aspx">Feedback</a></li>
+							 <li><a href="http://www.mas.gov.sg/Sitemap.aspx">Sitemap</a></li> 
+							</ul>
+						</div>
+		                
+ 
+					<form action="http://www.mas.gov.sg/search" method="get" name="simpleSearchForm"
+                    id="simpleSearchForm" target="_top">
+                    <div class="search">
+                        <div id="ctl00_search_panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_search_button')">
+                            <fieldset>
+                                <input type="hidden" name="entqr" value="0" />
+                                <input type="hidden" name="access" value="p" />
+                                <input type="hidden" name="output" value="xml_no_dtd" />
+                                <input type="hidden" name="ie" value="UTF-8" />
+                                <input type="hidden" name="client" value="mas_front" />
+                                <input type="hidden" name="ud" value="1" />
+                                <input type="hidden" name="oe" value="UTF-8" />
+                                <input type="hidden" name="proxystylesheet" value="mas_front" />
+                                <input type="hidden" value="on" name="mas_site" />
+                                <input type="hidden" value="mas" name="site" />
+                                <input type="hidden" value="1" name="proxyreload" />
+                                <input name="q" id="ctl00_search_keywords" value="Search" onfocus="removeSearch(this);"
+                                    type="text" />
+                                <input name="image" id="ctl00_search_button" value="Search" class="button" type="submit"
+                                    title="Search" />
+                            </fieldset>
+                        </div>
+                    </div>
+                    </form>
+					</div>
+				</div>
+                
+<div id="nav">
+ 
+    <ul>
+        
+                <li id="ctl10_navigation_menu_list_item_0"><a id="ctl10_navigation_menu_link_0" href="http://www.mas.gov.sg">Home</a>
+                </li>
+            
+                <li id="ctl10_navigation_menu_list_item_1"><a id="ctl10_navigation_menu_link_1" href="http://www.mas.gov.sg/About-MAS.aspx" style="display:inline-block;width:50px;">About MAS</a>
+                </li>
+            
+                <li id="ctl10_navigation_menu_list_item_2"><a id="ctl10_navigation_menu_link_2" href="http://www.mas.gov.sg/Regulations-and-Financial-Stability.aspx" style="display:inline-block;width:121px;">Regulations and Financial Stability</a>
+                </li>
+            
+                <li id="ctl10_navigation_menu_list_item_3"><a id="ctl10_navigation_menu_link_3" href="http://www.mas.gov.sg/Monetary-Policy-and-Economics.aspx" style="display:inline-block;width:111px;">Monetary Policy and Economics</a>
+                </li>
+            
+                <li id="ctl10_navigation_menu_list_item_4"><a id="ctl10_navigation_menu_link_4" href="http://www.mas.gov.sg/Singapore-Financial-Centre.aspx" style="display:inline-block;width:114px;">Singapore Financial Centre</a>
+                </li>
+            
+                <li id="ctl10_navigation_menu_list_item_5"><a id="ctl10_navigation_menu_link_5" href="http://www.mas.gov.sg/Currency.aspx" style="display:inline-block;width:69px;">Currency </a>
+                </li>
+            
+                <li id="ctl10_navigation_menu_list_item_6"><a id="ctl10_navigation_menu_link_6" href="http://www.mas.gov.sg/Statistics.aspx" style="display:inline-block;width:67px;">Statistics</a>
+                </li>
+            
+                <li id="ctl10_navigation_menu_list_item_7"><a id="ctl10_navigation_menu_link_7" href="http://www.mas.gov.sg/News-and-Publications.aspx" style="display:inline-block;width:87px;">News and Publications</a>
+                </li>
+            
+                <li id="ctl10_navigation_menu_list_item_8"><a id="ctl10_navigation_menu_link_8" href="http://www.mas.gov.sg/Careers.aspx" style="display:inline-block;width:57px;">Careers</a>
+                </li>
+            
+    </ul>
+</div>				
+ 
+            
+<div id="main">
+    <div id="content" style="width:88%; padding: 0 2% 55px 10px">
+        <div id="content" style="width: 88%; padding: 0 2% 55px 10px">
+<h2>Sorry!</h2>
+<p>The page you are looking for is not found.&nbsp;</p>
+<p>The location of the page may have changed.&nbsp;</p>
+<p>You may contact us at <a href="mailto:webmaster@mas.gov.sg" class="ApplyClass">webmaster@mas.gov.sg</a> to report the issue. Please quote this ID number 16012198457644439201 in your email. Alternatively, you can use the search box at the top-right hand corner of this page to look for the required information.</p>
+ 
+</div>
+    </div>
+    
+ 
+</div>
+            <span style="float:right; margin-bottom:5px; font-style:italic;">Last Modified on 23/06/2014</span>
+           
+		</div>
+	</div>
+	
+    
+	<div id="related-sites">
+		<div id="related-sites-inner">
+			<h2>Our related sites:</h2>
+             <!-- GUID of Homepage item-->
+            
+                <a href="http://www.moneysense.gov.sg/">
+                    <img src="http://www.mas.gov.sg/~/media/Images/logo_moneysense.ashx" alt="moneysense" /> 
+                    <span class="related-sites-info">
+                        <img src="http://www.mas.gov.sg/~/media/Images/logo_moneysense.ashx" alt="moneysense" />
+                        <span>MoneySENSE is a national financial education programme that aims to enhance the basic financial literacy of consumers. This website shares guides and tips on topics relating to various financial topics.</span>
+                    </span>
+                </a>
+              
+                <a href="http://masnet.mas.gov.sg/index.html">
+                    <img src="http://www.mas.gov.sg/~/media/Images/logo_masnet.ashx" alt="MASnet logo" /> 
+                    <span class="related-sites-info">
+                        <img src="http://www.mas.gov.sg/~/media/Images/logo_masnet.ashx" alt="MASnet logo" />
+                        <span>MASNET provides the financial sector in Singapore with a single communications network to improve workflow collaboration and coordination.</span>
+                    </span>
+                </a>
+              
+                <a href="https://opera.mas.gov.sg">
+                    <img src="http://www.mas.gov.sg/~/media/Images/logo_opera.ashx" alt="OPERA Logo" /> 
+                    <span class="related-sites-info">
+                        <img src="http://www.mas.gov.sg/~/media/Images/logo_opera.ashx" alt="OPERA Logo" />
+                        <span>OPERA is an on-line database hosting information and documents on public offers of shares, debentures and collective investment schemes.</span>
+                    </span>
+                </a>
+              
+                <a href="http://www.sgs.gov.sg/">
+                    <img src="http://www.mas.gov.sg/~/media/Images/logo_sgs.ashx" alt="SGS logo" /> 
+                    <span class="related-sites-info">
+                        <img src="http://www.mas.gov.sg/~/media/Images/logo_sgs.ashx" alt="SGS logo" />
+                        <span>The Singapore Government Securities (SGS) website provides individual investors a general overview of the SGS market</span>
+                    </span>
+                </a>
+              
+                <a href="http://www.mas.gov.sg/sic">
+                    <img src="http://www.mas.gov.sg/~/media/Images/logo_sic.ashx" alt="SIC logo" /> 
+                    <span class="related-sites-info">
+                        <img src="http://www.mas.gov.sg/~/media/Images/logo_sic.ashx" alt="SIC logo" />
+                        <span>The Securities Industry Council administers and enforces the Take-over Code and has powers under the law to investigate any dealing in securities that is connected with a take-over or merger transaction.</span>
+                    </span>
+                </a>
+              
+                <a href="https://masnetsvc2.mas.gov.sg/cisnet">
+                    <img src="http://www.mas.gov.sg/~/media/Images/logo_cisnet.ashx" alt="CISnet logo" /> 
+                    <span class="related-sites-info">
+                        <img src="http://www.mas.gov.sg/~/media/Images/logo_cisnet.ashx" alt="CISnet logo" />
+                        <span>CISNet allows fund managers or their appointed agents to notify MAS online of their intention to offer collective investment schemes to accredited and other investors under the Securities and Futures Act.</span>
+                    </span>
+                </a>
+              
+		</div>
+	</div>
+<div id="footer">
+ 
+		<div id="footer-inner">
+           
+            
+                    <ul id="ctl11_footerlinks_ul_0">
+                        
+                                <li><a id="ctl11_footerlinks_listitems_0_link_0" href="http://www.mas.gov.sg/">Home</a></li>
+                            
+                                <li><a id="ctl11_footerlinks_listitems_0_link_1" href="http://www.mas.gov.sg/About-MAS.aspx">About MAS</a></li>
+                            
+                                <li><a id="ctl11_footerlinks_listitems_0_link_2" href="http://www.mas.gov.sg/Regulations-and-Financial-Stability.aspx">Regulations and Financial Stability</a></li>
+                            
+                                <li><a id="ctl11_footerlinks_listitems_0_link_3" href="http://www.mas.gov.sg/Monetary-Policy-and-Economics.aspx">Monetary Policy and Economics</a></li>
+                            
+                                <li><a id="ctl11_footerlinks_listitems_0_link_4" href="http://www.mas.gov.sg/Singapore-Financial-Centre.aspx">Singapore Financial Centre</a></li>
+                            
+                                <li><a id="ctl11_footerlinks_listitems_0_link_5" href="http://www.mas.gov.sg/Currency.aspx">Currency</a></li>
+                            
+                                <li><a id="ctl11_footerlinks_listitems_0_link_6" href="http://www.mas.gov.sg/Statistics.aspx">Statistics</a></li>
+                            
+                                <li><a id="ctl11_footerlinks_listitems_0_link_7" href="http://www.mas.gov.sg/News-and-Publications.aspx">News and Publications</a></li>
+                            
+                                <li><a id="ctl11_footerlinks_listitems_0_link_8" href="http://www.mas.gov.sg/Careers.aspx">Careers</a></li>
+                            
+                    <li><a href="/Privacy-Statement.aspx">Privacy Statement</a></li><li><a href="http://www.mas.gov.sg/Terms-of-Use.aspx">Terms of Use</a></li>
+					<li><a target="_blank" href="http://www.mas.gov.sg/Rate-this-Site.aspx">Rate This Website</a></li></ul>
+                
+ 
+ 
+			<p>Copyright &copy; 2014 Monetary Authority of Singapore</p>
+ 
+		</div>
+</div>
+    
+<script type="text/javascript"> 
+//<![CDATA[
+var theForm = document.forms['mainform'];
+if (!theForm) {
+    theForm = document.mainform;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+ 
+ 
+
+	</body>
+ 
+</html>

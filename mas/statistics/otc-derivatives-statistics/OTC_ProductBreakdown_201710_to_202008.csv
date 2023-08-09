@@ -1,0 +1,491 @@
+Reporting Month,Asset Class,Product,Number of Open Positions,Aggregate Gross Notional Value of Open Positions (in USD million),Number of New Transactions,Aggregate Notional Value of New Transactions (in USD million)
+Oct-17,Credit,Index,2055,56354,212,5216
+Oct-17,Credit,Single name: Corporate,3686,27067,142,1188
+Oct-17,Credit,Single name: Sovereign,6390,81965,222,3409
+Oct-17,Credit,Others,888,37903,154,22525
+Oct-17,Foreign Exchange,Forwards and swaps,208910,4433371,174347,6557536
+Oct-17,Foreign Exchange,NDF,205438,1572931,137199,967227
+Oct-17,Foreign Exchange,Spot,6735,138433,21361,664036
+Oct-17,Foreign Exchange,Options,121095,2289259,60639,765601
+Oct-17,Foreign Exchange,Others,192259,895939,46447,115412
+Oct-17,Interest Rate,Cross Currency Swap,30474,1414484,1760,102649
+Oct-17,Interest Rate,FRA,3707,402665,592,125440
+Oct-17,Interest Rate,Interest Rate Swap,257519,14562470,18271,1531635
+Oct-17,Interest Rate,Options,7756,566166,761,78823
+Oct-17,Interest Rate,Others,7596,262531,1089,19379
+Nov-17,Credit,Index,2114,57704,152,2998
+Nov-17,Credit,Single name: Corporate,3831,27771,191,1211
+Nov-17,Credit,Single name: Sovereign,6485,84612,323,5064
+Nov-17,Credit,Others,882,41134,131,10508
+Nov-17,Foreign Exchange,Forwards and swaps,217235,4607718,174880,6708738
+Nov-17,Foreign Exchange,NDF,219750,1784374,167046,1221020
+Nov-17,Foreign Exchange,Spot,6916,150562,23142,799891
+Nov-17,Foreign Exchange,Options,114581,2105663,60319,751371
+Nov-17,Foreign Exchange,Others,188301,849364,39054,49134
+Nov-17,Interest Rate,Cross Currency Swap,31047,1468381,1632,153051
+Nov-17,Interest Rate,FRA,3679,435565,821,169825
+Nov-17,Interest Rate,Interest Rate Swap,262016,15612752,19687,2006613
+Nov-17,Interest Rate,Options,8065,556997,796,46424
+Nov-17,Interest Rate,Others,8009,268486,1114,25067
+Dec-17,Credit,Index,2039,56627,47,790
+Dec-17,Credit,Single name: Corporate,3704,27269,109,863
+Dec-17,Credit,Single name: Sovereign,6356,83194,116,2948
+Dec-17,Credit,Others,937,41027,81,2352
+Dec-17,Foreign Exchange,Forwards and swaps,190882,4132038,157795,5817838
+Dec-17,Foreign Exchange,NDF,160273,1351513,111929,823997
+Dec-17,Foreign Exchange,Spot,6421,115698,22017,812769
+Dec-17,Foreign Exchange,Options,100805,1733729,43142,477556
+Dec-17,Foreign Exchange,Others,168001,777327,22802,38967
+Dec-17,Interest Rate,Cross Currency Swap,31121,1442057,924,74145
+Dec-17,Interest Rate,FRA,3126,301578,502,59743
+Dec-17,Interest Rate,Interest Rate Swap,242755,13732060,22519,1969478
+Dec-17,Interest Rate,Options,8354,582372,734,114249
+Dec-17,Interest Rate,Others,8069,265508,749,18995
+Jan-18,Credit,Index,2162,61087,180,6479
+Jan-18,Credit,Single name: Corporate,3920,28373,352,1981
+Jan-18,Credit,Single name: Sovereign,6478,82636,210,2566
+Jan-18,Credit,Others,871,41531,92,4641
+Jan-18,Foreign Exchange,Forwards and swaps,204274,4459378,197336,7651410
+Jan-18,Foreign Exchange,NDF,224769,1661320,191355,1212756
+Jan-18,Foreign Exchange,Spot,7022,162225,26068,965431
+Jan-18,Foreign Exchange,Options,114860,2070529,66338,989276
+Jan-18,Foreign Exchange,Others,144901,1212809,57635,1118263
+Jan-18,Interest Rate,Cross Currency Swap,31324,1462412,1861,127629
+Jan-18,Interest Rate,FRA,3158,346589,691,121786
+Jan-18,Interest Rate,Interest Rate Swap,248790,14351444,25132,2128667
+Jan-18,Interest Rate,Options,8478,654523,838,132240
+Jan-18,Interest Rate,Others,8442,277506,1282,30500
+Feb-18,Credit,Index,1919,56274,259,6899
+Feb-18,Credit,Single name: Corporate,4259,30753,147,1229
+Feb-18,Credit,Single name: Sovereign,5326,76889,249,7148
+Feb-18,Credit,Others,910,33772,189,19980
+Feb-18,Foreign Exchange,Forwards and swaps,213736,4904110,186281,7439479
+Feb-18,Foreign Exchange,NDF,250558,1861845,182017,1178298
+Feb-18,Foreign Exchange,Spot,6983,150266,21931,881781
+Feb-18,Foreign Exchange,Options,117759,2094927,58745,797146
+Feb-18,Foreign Exchange,Others,163216,232204,51973,112835
+Feb-18,Interest Rate,Cross Currency Swap,32571,1495830,1520,121426
+Feb-18,Interest Rate,FRA,3291,421379,543,136873
+Feb-18,Interest Rate,Interest Rate Swap,254926,14878824,30041,2616414
+Feb-18,Interest Rate,Options,8730,679391,603,66382
+Feb-18,Interest Rate,Others,9120,285814,848,20386
+Mar-18,Credit,Index,2045,57787,185,5827
+Mar-18,Credit,Single name: Corporate,4272,31115,170,2155
+Mar-18,Credit,Single name: Sovereign,5830,84094,219,5308
+Mar-18,Credit,Others,901,34157,113,5971
+Mar-18,Foreign Exchange,Forwards and swaps,195947,4571362,207481,8130695
+Mar-18,Foreign Exchange,NDF,184095,1538949,156749,1181752
+Mar-18,Foreign Exchange,Spot,5551,101017,25015,858832
+Mar-18,Foreign Exchange,Options,115648,1990980,63894,771077
+Mar-18,Foreign Exchange,Others,162800,270968,41938,107155
+Mar-18,Interest Rate,Cross Currency Swap,32704,1487814,1625,130816
+Mar-18,Interest Rate,FRA,3738,499936,1614,299033
+Mar-18,Interest Rate,Interest Rate Swap,256590,14919570,24353,2331087
+Mar-18,Interest Rate,Options,8757,653958,726,80235
+Mar-18,Interest Rate,Others,9451,289115,1218,27357
+Apr-18,Credit,Index,1991,56993,126,3166
+Apr-18,Credit,Single name: Corporate,4340,31310,165,1198
+Apr-18,Credit,Single name: Sovereign,5888,84746,116,2004
+Apr-18,Credit,Others,964,35418,99,3112
+Apr-18,Foreign Exchange,Forwards and swaps,216088,4988347,229782,8907488
+Apr-18,Foreign Exchange,NDF,201950,1567133,158792,1088661
+Apr-18,Foreign Exchange,Spot,5816,131150,24295,864149
+Apr-18,Foreign Exchange,Options,117285,1958743,59973,668070
+Apr-18,Foreign Exchange,Others,165857,282716,42428,66759
+Apr-18,Interest Rate,Cross Currency Swap,33272,1469906,1237,88404
+Apr-18,Interest Rate,FRA,3409,502099,567,178952
+Apr-18,Interest Rate,Interest Rate Swap,261106,15434761,20443,2038683
+Apr-18,Interest Rate,Options,9883,747094,834,111170
+Apr-18,Interest Rate,Others,8772,273323,1015,21309
+May-18,Credit,Index,1805,58341,121,9656
+May-18,Credit,Single name: Corporate,4336,31572,280,1886
+May-18,Credit,Single name: Sovereign,5542,83362,670,11969
+May-18,Credit,Others,1003,22128,152,2992
+May-18,Foreign Exchange,Forwards and swaps,233106,5290261,243737,8586887
+May-18,Foreign Exchange,NDF,240326,1748268,191641,1244312
+May-18,Foreign Exchange,Spot,5767,122017,26309,993225
+May-18,Foreign Exchange,Options,120988,2138872,63796,879218
+May-18,Foreign Exchange,Others,174969,331789,53793,165877
+May-18,Interest Rate,Cross Currency Swap,35336,1617184,1564,139142
+May-18,Interest Rate,FRA,4381,740256,1553,348557
+May-18,Interest Rate,Interest Rate Swap,266324,14910262,24658,2743279
+May-18,Interest Rate,Options,14785,1191090,1482,365188
+May-18,Interest Rate,Others,7802,279520,1005,26221
+Jun-18,Credit,Index,1676,56603,171,6651
+Jun-18,Credit,Single name: Corporate,3830,28401,183,1387
+Jun-18,Credit,Single name: Sovereign,4938,75519,195,6215
+Jun-18,Credit,Others,1045,23167,94,2155
+Jun-18,Foreign Exchange,Forwards and swaps,232288,5111747,236729,8304362
+Jun-18,Foreign Exchange,NDF,242833,1683697,181491,1147507
+Jun-18,Foreign Exchange,Spot,4508,129736,25667,907893
+Jun-18,Foreign Exchange,Options,124465,2193078,64530,805992
+Jun-18,Foreign Exchange,Others,180139,384410,43572,129681
+Jun-18,Interest Rate,Cross Currency Swap,35392,1596609,1375,138868
+Jun-18,Interest Rate,FRA,4421,662212,1525,268448
+Jun-18,Interest Rate,Interest Rate Swap,261674,14695730,22962,2291288
+Jun-18,Interest Rate,Options,14648,1124893,867,589603
+Jun-18,Interest Rate,Others,9207,298116,963,29615
+Jul-18,Credit,Index,1728,60272,173,6937
+Jul-18,Credit,Single name: Corporate,4461,32291,153,1231
+Jul-18,Credit,Single name: Sovereign,5309,77395,219,3839
+Jul-18,Credit,Others,1137,23601,191,2837
+Jul-18,Foreign Exchange,Forwards and swaps,240444,4971132,244671,7703947
+Jul-18,Foreign Exchange,NDF,239289,1691844,180203,1154519
+Jul-18,Foreign Exchange,Spot,3804,126575,26000,965192
+Jul-18,Foreign Exchange,Options,125828,2221983,66185,806084
+Jul-18,Foreign Exchange,Others,180881,381492,45350,75959
+Jul-18,Interest Rate,Cross Currency Swap,36013,1664982,1846,167676
+Jul-18,Interest Rate,FRA,3841,572679,573,133070
+Jul-18,Interest Rate,Interest Rate Swap,264254,14905855,24910,2010451
+Jul-18,Interest Rate,Options,14448,1091760,713,41561
+Jul-18,Interest Rate,Others,9696,309291,1366,34156
+Aug-18,Credit,Index,1587,56916,134,3161
+Aug-18,Credit,Single name: Corporate,3974,29487,93,637
+Aug-18,Credit,Single name: Sovereign,4812,74589,164,2226
+Aug-18,Credit,Others,1267,35148,156,10338
+Aug-18,Foreign Exchange,Forwards and swaps,265599,5034998,272215,8011009
+Aug-18,Foreign Exchange,NDF,239066,1791885,186782,1132323
+Aug-18,Foreign Exchange,Spot,3099,115669,26691,1044244
+Aug-18,Foreign Exchange,Options,129607,2320027,66939,826786
+Aug-18,Foreign Exchange,Others,185573,267909,55102,90029
+Aug-18,Interest Rate,Cross Currency Swap,36869,1733982,1705,153532
+Aug-18,Interest Rate,FRA,4610,675214,1187,213473
+Aug-18,Interest Rate,Interest Rate Swap,273774,15050108,22731,1970033
+Aug-18,Interest Rate,Options,13746,1039507,901,75139
+Aug-18,Interest Rate,Others,9782,196059,878,23933
+Sep-18,Credit,Index,1632,57032,181,7160
+Sep-18,Credit,Single name: Corporate,3919,29979,170,2515
+Sep-18,Credit,Single name: Sovereign,4810,75342,279,9301
+Sep-18,Credit,Others,1272,36721,99,3051
+Sep-18,Foreign Exchange,Forwards and swaps,243653,4993373,235612,7213733
+Sep-18,Foreign Exchange,NDF,248718,1754625,185350,1116738
+Sep-18,Foreign Exchange,Spot,4401,152293,27202,988075
+Sep-18,Foreign Exchange,Options,126570,2203549,57151,719009
+Sep-18,Foreign Exchange,Others,187254,260380,44204,69256
+Sep-18,Interest Rate,Cross Currency Swap,37224,1723866,1288,99074
+Sep-18,Interest Rate,FRA,5230,811401,1257,306578
+Sep-18,Interest Rate,Interest Rate Swap,283469,15200043,24704,2025772
+Sep-18,Interest Rate,Options,13988,1065020,719,82043
+Sep-18,Interest Rate,Others,9766,214721,816,37941
+Oct-18,Credit,Index,1639,57071,117,5151
+Oct-18,Credit,Single name: Corporate,3910,29677,107,814
+Oct-18,Credit,Single name: Sovereign,4777,74688,105,3921
+Oct-18,Credit,Others,1376,38118,129,3580
+Oct-18,Foreign Exchange,Forwards and swaps,254488,5126520,266253,8081729
+Oct-18,Foreign Exchange,NDF,259870,1835173,208805,1220070
+Oct-18,Foreign Exchange,Spot,3691,147416,27694,1075716
+Oct-18,Foreign Exchange,Options,127328,2296403,62205,829412
+Oct-18,Foreign Exchange,Others,178582,313519,50885,110286
+Oct-18,Interest Rate,Cross Currency Swap,37617,1777977,1326,124888
+Oct-18,Interest Rate,FRA,4045,627464,848,243964
+Oct-18,Interest Rate,Interest Rate Swap,289739,16138264,29545,2575753
+Oct-18,Interest Rate,Options,13822,1037153,637,40485
+Oct-18,Interest Rate,Others,9709,214852,839,25445
+Nov-18,Credit,Index,1676,62289,178,10983
+Nov-18,Credit,Single name: Corporate,3979,30050,82,423
+Nov-18,Credit,Single name: Sovereign,4777,74812,58,1505
+Nov-18,Credit,Others,1417,37648,165,10394
+Nov-18,Foreign Exchange,Forwards and swaps,266259,5500993,238731,7491139
+Nov-18,Foreign Exchange,NDF,265346,1915470,199476,1201956
+Nov-18,Foreign Exchange,Spot,3202,127690,25038,916702
+Nov-18,Foreign Exchange,Options,125701,2256531,62772,783211
+Nov-18,Foreign Exchange,Others,177693,298772,45141,95645
+Nov-18,Interest Rate,Cross Currency Swap,37873,1796524,1380,142599
+Nov-18,Interest Rate,FRA,5476,810664,2613,458894
+Nov-18,Interest Rate,Interest Rate Swap,295228,16047509,27216,2164864
+Nov-18,Interest Rate,Options,13709,1040783,748,57073
+Nov-18,Interest Rate,Others,9609,211021,849,21307
+Dec-18,Credit,Index,1540,53652,87,2245
+Dec-18,Credit,Single name: Corporate,3892,29298,41,244
+Dec-18,Credit,Single name: Sovereign,4714,73976,58,831
+Dec-18,Credit,Others,1604,39751,259,4043
+Dec-18,Foreign Exchange,Forwards and swaps,239472,4988390,211884,6470064
+Dec-18,Foreign Exchange,NDF,202562,1599540,158747,1059785
+Dec-18,Foreign Exchange,Spot,2437,83296,22256,805547
+Dec-18,Foreign Exchange,Options,112876,1991722,46146,592970
+Dec-18,Foreign Exchange,Others,161272,229674,33479,61410
+Dec-18,Interest Rate,Cross Currency Swap,37913,1749962,1047,81644
+Dec-18,Interest Rate,FRA,4990,667904,860,190953
+Dec-18,Interest Rate,Interest Rate Swap,300861,15652688,26245,2174616
+Dec-18,Interest Rate,Options,13421,952188,770,41190
+Dec-18,Interest Rate,Others,9198,194866,597,25993
+Jan-19,Credit,Index,1637,55248,223,5632
+Jan-19,Credit,Single name: Corporate,4001,29863,106,697
+Jan-19,Credit,Single name: Sovereign,4722,75036,177,3120
+Jan-19,Credit,Others,1756,43973,261,4667
+Jan-19,Foreign Exchange,Forwards and swaps,259928,5580939,254032,8982434
+Jan-19,Foreign Exchange,NDF,233500,1835345,193272,1306821
+Jan-19,Foreign Exchange,Spot,3105,145295,25342,1189761
+Jan-19,Foreign Exchange,Options,121354,2128924,67286,937492
+Jan-19,Foreign Exchange,Others,165015,311558,65247,162511
+Jan-19,Interest Rate,Cross Currency Swap,38210,1804839,1416,156666
+Jan-19,Interest Rate,FRA,4468,723444,1161,328820
+Jan-19,Interest Rate,Interest Rate Swap,304046,16590441,30843,3050992
+Jan-19,Interest Rate,Options,13283,857110,885,84934
+Jan-19,Interest Rate,Others,9987,207507,1458,37538
+Feb-19,Credit,Index,1774,58864,241,6528
+Feb-19,Credit,Single name: Corporate,4102,30840,149,1368
+Feb-19,Credit,Single name: Sovereign,4771,75835,89,1634
+Feb-19,Credit,Others,1928,48720,282,5721
+Feb-19,Foreign Exchange,Forwards and swaps,263291,5863177,209741,7599558
+Feb-19,Foreign Exchange,NDF,231037,1794533,148648,920406
+Feb-19,Foreign Exchange,Spot,3053,126949,19341,826836
+Feb-19,Foreign Exchange,Options,120421,2054609,54268,621745
+Feb-19,Foreign Exchange,Others,163290,258536,40526,79329
+Feb-19,Interest Rate,Cross Currency Swap,38781,1847139,1544,153048
+Feb-19,Interest Rate,FRA,5867,932947,2222,464654
+Feb-19,Interest Rate,Interest Rate Swap,310567,16783983,24279,2686235
+Feb-19,Interest Rate,Options,13261,806228,745,41368
+Feb-19,Interest Rate,Others,10039,200883,743,24295
+Mar-19,Credit,Index,1787,64795,395,17263
+Mar-19,Credit,Single name: Corporate,4030,31043,154,3037
+Mar-19,Credit,Single name: Sovereign,4783,77692,332,10669
+Mar-19,Credit,Others,1938,40240,218,4486
+Mar-19,Foreign Exchange,Forwards and swaps,265187,5713935,237042,8272251
+Mar-19,Foreign Exchange,NDF,231620,1745568,190067,1245767
+Mar-19,Foreign Exchange,Spot,2865,121950,23555,1033009
+Mar-19,Foreign Exchange,Options,124769,2037597,67843,683954
+Mar-19,Foreign Exchange,Others,163460,253280,38535,119833
+Mar-19,Interest Rate,Cross Currency Swap,39130,1853310,1611,137665
+Mar-19,Interest Rate,FRA,5003,854987,1494,361784
+Mar-19,Interest Rate,Interest Rate Swap,309263,16747012,32188,3227304
+Mar-19,Interest Rate,Options,13447,820355,1178,88097
+Mar-19,Interest Rate,Others,9964,202997,899,22665
+Apr-19,Credit,Index,1858,63377,194,4879
+Apr-19,Credit,Single name: Corporate,4103,31236,146,1251
+Apr-19,Credit,Single name: Sovereign,4787,75993,107,2311
+Apr-19,Credit,Others,1934,35804,145,1515
+Apr-19,Foreign Exchange,Forwards and swaps,273023,5557182,250882,8510677
+Apr-19,Foreign Exchange,NDF,230073,1651337,179204,1117466
+Apr-19,Foreign Exchange,Spot,3458,131782,24806,1032279
+Apr-19,Foreign Exchange,Options,121022,1934564,64979,654781
+Apr-19,Foreign Exchange,Others,152933,245996,32402,81883
+Apr-19,Interest Rate,Cross Currency Swap,39674,1911459,1407,132245
+Apr-19,Interest Rate,FRA,5461,1039451,1621,392964
+Apr-19,Interest Rate,Interest Rate Swap,314878,17604648,25704,2978683
+Apr-19,Interest Rate,Options,13628,814514,877,48612
+Apr-19,Interest Rate,Others,9827,197209,769,14611
+May-19,Credit,Index,1944,62613,212,8709
+May-19,Credit,Single name: Corporate,3938,30707,144,1178
+May-19,Credit,Single name: Sovereign,4809,77684,288,3970
+May-19,Credit,Others,1946,39804,308,6673
+May-19,Foreign Exchange,Forwards and swaps,303066,5854936,273760,8334153
+May-19,Foreign Exchange,NDF,275721,1950244,209118,1300266
+May-19,Foreign Exchange,Spot,3415,158922,26964,1117412
+May-19,Foreign Exchange,Options,124884,2186217,66932,950891
+May-19,Foreign Exchange,Others,154105,251717,39326,87437
+May-19,Interest Rate,Cross Currency Swap,40297,1983102,1652,178652
+May-19,Interest Rate,FRA,5195,941951,1428,351970
+May-19,Interest Rate,Interest Rate Swap,325638,18233287,26989,3336029
+May-19,Interest Rate,Options,13559,824315,695,54564
+May-19,Interest Rate,Others,9844,190206,787,17033
+Jun-19,Credit,Index,1924,59119,277,5408
+Jun-19,Credit,Single name: Corporate,3851,30090,173,1694
+Jun-19,Credit,Single name: Sovereign,4813,76779,300,4812
+Jun-19,Credit,Others,2001,34945,234,4167
+Jun-19,Foreign Exchange,Forwards and swaps,296269,5768722,255206,7743550
+Jun-19,Foreign Exchange,NDF,242654,1750290,164079,1054480
+Jun-19,Foreign Exchange,Spot,4674,165384,31253,1178290
+Jun-19,Foreign Exchange,Options,121957,2132337,52970,727400
+Jun-19,Foreign Exchange,Others,149619,243792,31075,58180
+Jun-19,Interest Rate,Cross Currency Swap,40730,2007277,1673,156424
+Jun-19,Interest Rate,FRA,3657,520971,1130,285393
+Jun-19,Interest Rate,Interest Rate Swap,313271,16800129,27368,3245823
+Jun-19,Interest Rate,Options,13348,820630,719,46858
+Jun-19,Interest Rate,Others,10022,185342,1044,21675
+Jul-19,Credit,Index,2039,59961,184,2908
+Jul-19,Credit,Single name: Corporate,3926,30934,171,1900
+Jul-19,Credit,Single name: Sovereign,4903,77727,163,2629
+Jul-19,Credit,Others,2197,36136,326,2834
+Jul-19,Foreign Exchange,Forwards and swaps,318340,5993862,314929,9827624
+Jul-19,Foreign Exchange,NDF,221759,1696396,166187,1111356
+Jul-19,Foreign Exchange,Spot,6651,185616,49763,1567931
+Jul-19,Foreign Exchange,Options,122216,2008318,57820,648146
+Jul-19,Foreign Exchange,Others,145595,256584,31541,69086
+Jul-19,Interest Rate,Cross Currency Swap,41156,2044970,1695,169045
+Jul-19,Interest Rate,FRA,3972,569111,1571,365480
+Jul-19,Interest Rate,Interest Rate Swap,318574,17362700,25231,2490031
+Jul-19,Interest Rate,Options,13227,805038,592,27947
+Jul-19,Interest Rate,Others,10088,205441,1114,52533
+Aug-19,Credit,Index,2127,65077,250,9142
+Aug-19,Credit,Single name: Corporate,3921,30980,111,1047
+Aug-19,Credit,Single name: Sovereign,5113,80474,320,4562
+Aug-19,Credit,Others,2380,35973,385,3578
+Aug-19,Foreign Exchange,Forwards and swaps,369173,6297693,350276,8822154
+Aug-19,Foreign Exchange,NDF,265212,1947528,199934,1285788
+Aug-19,Foreign Exchange,Spot,5885,200441,53136,1383120
+Aug-19,Foreign Exchange,Options,124921,2153172,59123,811627
+Aug-19,Foreign Exchange,Others,136900,265494,39729,79085
+Aug-19,Interest Rate,Cross Currency Swap,41852,2127380,1985,173571
+Aug-19,Interest Rate,FRA,3921,604902,1229,237725
+Aug-19,Interest Rate,Interest Rate Swap,317642,16208600,30923,2548585
+Aug-19,Interest Rate,Options,13151,773575,501,29506
+Aug-19,Interest Rate,Others,9919,204086,839,21550
+Sep-19,Credit,Index,2099,71888,304,14320
+Sep-19,Credit,Single name: Corporate,3935,31464,159,2009
+Sep-19,Credit,Single name: Sovereign,5088,84119,234,8218
+Sep-19,Credit,Others,2258,33259,259,2671
+Sep-19,Foreign Exchange,Forwards and swaps,354273,6408524,320900,9045597
+Sep-19,Foreign Exchange,NDF,231081,1780371,175042,1219830
+Sep-19,Foreign Exchange,Spot,6221,181219,50698,1393015
+Sep-19,Foreign Exchange,Options,120282,2017817,53128,680914
+Sep-19,Foreign Exchange,Others,143237,271632,42890,78239
+Sep-19,Interest Rate,Cross Currency Swap,42546,2193850,1823,210824
+Sep-19,Interest Rate,FRA,3764,556901,1600,378679
+Sep-19,Interest Rate,Interest Rate Swap,331623,16486000,29014,2741776
+Sep-19,Interest Rate,Options,12536,747436,426,30338
+Sep-19,Interest Rate,Others,10042,204498,986,48536
+Oct-19,Credit,Index,1858,64535,267,5619
+Oct-19,Credit,Single name: Corporate,4240,35034,242,3488
+Oct-19,Credit,Single name: Sovereign,4770,83254,260,7216
+Oct-19,Credit,Others,2324,33567,424,3873
+Oct-19,Foreign Exchange,Forwards and swaps,367351,6181638,328839,8847735
+Oct-19,Foreign Exchange,NDF,219775,1755504,165505,1103359
+Oct-19,Foreign Exchange,Spot,6557,163950,48718,1339468
+Oct-19,Foreign Exchange,Options,119696,1934429,57769,607139
+Oct-19,Foreign Exchange,Others,143320,295689,37447,88530
+Oct-19,Interest Rate,Cross Currency Swap,42938,2259164,1847,207755
+Oct-19,Interest Rate,FRA,3353,513904,877,207801
+Oct-19,Interest Rate,Interest Rate Swap,331884,16315561,33021,2648903
+Oct-19,Interest Rate,Options,12784,765904,731,50206
+Oct-19,Interest Rate,Others,10167,215150,902,27831
+Nov-19,Credit,Index,2390,71754,248,7845
+Nov-19,Credit,Single name: Corporate,4579,36360,391,1600
+Nov-19,Credit,Single name: Sovereign,4878,82788,231,3656
+Nov-19,Credit,Others,2313,32895,430,2711
+Nov-19,Foreign Exchange,Forwards and swaps,394431,6516875,309811,8035718
+Nov-19,Foreign Exchange,NDF,240308,1982230,163871,1240174
+Nov-19,Foreign Exchange,Spot,7313,229667,43958,1233874
+Nov-19,Foreign Exchange,Options,114816,1857298,49449,575468
+Nov-19,Foreign Exchange,Others,142958,281997,25754,87594
+Nov-19,Interest Rate,Cross Currency Swap,43298,2262757,1393,115699
+Nov-19,Interest Rate,FRA,3090,586046,1045,326353
+Nov-19,Interest Rate,Interest Rate Swap,336405,16195368,36304,2782999
+Nov-19,Interest Rate,Options,13096,761861,900,50798
+Nov-19,Interest Rate,Others,10176,216040,601,133246
+Dec-19,Credit,Index,2409,71174,234,5026
+Dec-19,Credit,Single name: Corporate,4722,37235,83,1355
+Dec-19,Credit,Single name: Sovereign,5020,90186,238,4031
+Dec-19,Credit,Others,2750,35480,465,4168
+Dec-19,Foreign Exchange,Forwards and swaps,358492,5508876,325058,8329283
+Dec-19,Foreign Exchange,NDF,191097,1566124,142011,1081012
+Dec-19,Foreign Exchange,Spot,5111,136445,45960,1262648
+Dec-19,Foreign Exchange,Options,105406,1658720,44508,490841
+Dec-19,Foreign Exchange,Others,127260,287511,24150,75594
+Dec-19,Interest Rate,Cross Currency Swap,42848,2148893,1144,100918
+Dec-19,Interest Rate,FRA,1908,211238,486,79778
+Dec-19,Interest Rate,Interest Rate Swap,305889,14226856,28644,2571266
+Dec-19,Interest Rate,Options,13036,740568,447,22203
+Dec-19,Interest Rate,Others,10171,342787,1022,45221
+Jan-20,Credit,Index,2697,79024,483,15499
+Jan-20,Credit,Single name: Corporate,5032,39474,525,3024
+Jan-20,Credit,Single name: Sovereign,5452,98537,717,12790
+Jan-20,Credit,Others,2829,34675,545,5966
+Jan-20,Foreign Exchange,Forwards and swaps,409288,6053248,357203,9323792
+Jan-20,Foreign Exchange,NDF,238453,1793580,191778,1226475
+Jan-20,Foreign Exchange,Spot,7031,205476,48188,1407886
+Jan-20,Foreign Exchange,Options,117157,1851588,59355,769845
+Jan-20,Foreign Exchange,Others,130875,352826,36225,130009
+Jan-20,Interest Rate,Cross Currency Swap,43028,2199936,1594,157816
+Jan-20,Interest Rate,FRA,2644,394263,1863,492666
+Jan-20,Interest Rate,Interest Rate Swap,327381,16909661,42295,4388674
+Jan-20,Interest Rate,Options,13052,732495,596,42558
+Jan-20,Interest Rate,Others,10794,261191,1325,34795
+Feb-20,Credit,Index,2560,85154,811,22856
+Feb-20,Credit,Single name: Corporate,5830,45386,989,5297
+Feb-20,Credit,Single name: Sovereign,5859,106491,942,12448
+Feb-20,Credit,Others,2998,41739,633,11282
+Feb-20,Foreign Exchange,Forwards and swaps,411632,5696282,355684,8558408
+Feb-20,Foreign Exchange,NDF,263275,1966230,211793,1307506
+Feb-20,Foreign Exchange,Spot,4820,152085,47927,1232785
+Feb-20,Foreign Exchange,Options,122812,1971451,61534,782881
+Feb-20,Foreign Exchange,Others,125438,453199,44286,161773
+Feb-20,Interest Rate,Cross Currency Swap,43204,2213259,1707,151550
+Feb-20,Interest Rate,FRA,2299,304840,914,188381
+Feb-20,Interest Rate,Interest Rate Swap,337183,17939277,46853,5259277
+Feb-20,Interest Rate,Options,12981,729934,602,54850
+Feb-20,Interest Rate,Others,10686,264462,1339,30537
+Mar-20,Credit,Index,2828,85809,1533,49521
+Mar-20,Credit,Single name: Corporate,6716,51815,1150,9540
+Mar-20,Credit,Single name: Sovereign,6457,118005,1885,37973
+Mar-20,Credit,Others,2711,39944,351,5010
+Mar-20,Foreign Exchange,Forwards and swaps,463327,6176569,443096,9459271
+Mar-20,Foreign Exchange,NDF,301098,2088861,253993,1591303
+Mar-20,Foreign Exchange,Spot,7289,206422,60994,1515023
+Mar-20,Foreign Exchange,Options,132808,2103802,69167,757595
+Mar-20,Foreign Exchange,Others,105126,434442,49071,121772
+Mar-20,Interest Rate,Cross Currency Swap,43866,2229919,2700,213550
+Mar-20,Interest Rate,FRA,3253,514090,2541,559816
+Mar-20,Interest Rate,Interest Rate Swap,355534,17117495,60552,3997720
+Mar-20,Interest Rate,Options,12898,682765,633,37858
+Mar-20,Interest Rate,Others,10822,290918,1434,73156
+Apr-20,Credit,Index,2949,84497,720,25119
+Apr-20,Credit,Single name: Corporate,7555,54128,1584,7426
+Apr-20,Credit,Single name: Sovereign,6628,121500,888,28987
+Apr-20,Credit,Others,2815,40856,412,15279
+Apr-20,Foreign Exchange,Forwards and swaps,426777,5785750,323711,8111282
+Apr-20,Foreign Exchange,NDF,221549,1812970,154258,1009612
+Apr-20,Foreign Exchange,Spot,6635,161489,47426,1195123
+Apr-20,Foreign Exchange,Options,126166,1898740,52740,522821
+Apr-20,Foreign Exchange,Others,105794,415036,29244,62849
+Apr-20,Interest Rate,Cross Currency Swap,44230,2204640,1565,99471
+Apr-20,Interest Rate,FRA,3424,458638,1792,301150
+Apr-20,Interest Rate,Interest Rate Swap,362712,16402900,35321,1813860
+Apr-20,Interest Rate,Options,12749,674393,534,30586
+Apr-20,Interest Rate,Others,11172,292363,1086,34482
+May-20,Credit,Index,3307,98256,470,17802
+May-20,Credit,Single name: Corporate,9061,57503,1975,7204
+May-20,Credit,Single name: Sovereign,6546,120901,787,21771
+May-20,Credit,Others,2878,40004,443,3707
+May-20,Foreign Exchange,Forwards and swaps,397985,5196100,314769,7253020
+May-20,Foreign Exchange,NDF,205067,1709700,143955,905424
+May-20,Foreign Exchange,Spot,4408,110095,45723,1112288
+May-20,Foreign Exchange,Options,124868,1855610,54228,553544
+May-20,Foreign Exchange,Others,105316,404230,23376,66524
+May-20,Interest Rate,Cross Currency Swap,44022,2108270,1399,77568
+May-20,Interest Rate,FRA,3352,453138,1543,239588
+May-20,Interest Rate,Interest Rate Swap,367808,16090300,32908,1560954
+May-20,Interest Rate,Options,12414,651792,653,54855
+May-20,Interest Rate,Others,11287,299455,873,22018
+Jun-20,Credit,Index,3534,110759,712,23663
+Jun-20,Credit,Single name: Corporate,10218,61849,1672,9109
+Jun-20,Credit,Single name: Sovereign,6424,118222,819,23270
+Jun-20,Credit,Others,2977,41024,445,4915
+Jun-20,Foreign Exchange,Forwards and swaps,399625,5551840,368843,8902643
+Jun-20,Foreign Exchange,NDF,236120,1699510,186962,1092665
+Jun-20,Foreign Exchange,Spot,7172,191711,55311,1422697
+Jun-20,Foreign Exchange,Options,124488,1898870,60196,648904
+Jun-20,Foreign Exchange,Others,109221,409438,31310,73227
+Jun-20,Interest Rate,Cross Currency Swap,44125,2014780,1455,81538
+Jun-20,Interest Rate,FRA,3653,553936,2666,499902
+Jun-20,Interest Rate,Interest Rate Swap,368066,15218700,50678,2801379
+Jun-20,Interest Rate,Options,12209,623195,567,44708
+Jun-20,Interest Rate,Others,10954,284681,803,31930
+Jul-20,Credit,Index,3874,111310,707,17978
+Jul-20,Credit,Single name: Corporate,10636,64058,747,5864
+Jul-20,Credit,Single name: Sovereign,6481,117253,631,16339
+Jul-20,Credit,Others,3291,37283,812,6720
+Jul-20,Foreign Exchange,Forwards and swaps,408884,5422352,366472,9109203
+Jul-20,Foreign Exchange,NDF,227629,1666409,171044,1038133
+Jul-20,Foreign Exchange,Spot,5953,155477,51969,1421952
+Jul-20,Foreign Exchange,Options,125104,2007902,62087,724551
+Jul-20,Foreign Exchange,Others,106698,423028,32038,83848
+Jul-20,Interest Rate,Cross Currency Swap,45062,2037143,2304,124811
+Jul-20,Interest Rate,FRA,3630,574931,1759,294624
+Jul-20,Interest Rate,Interest Rate Swap,354150,14467139,32566,2113984
+Jul-20,Interest Rate,Options,12183,622877,556,35169
+Jul-20,Interest Rate,Others,10713,265287,739,28590
+Aug-20,Credit,Index,3756,114227,384,15798
+Aug-20,Credit,Single name: Corporate,11016,66266,478,3685
+Aug-20,Credit,Single name: Sovereign,6540,119844,352,13490
+Aug-20,Credit,Others,3498,40339,591,9300
+Aug-20,Foreign Exchange,Forwards and swaps,431695,5649805,344976,8424707
+Aug-20,Foreign Exchange,NDF,235813,1745411,156278,983409
+Aug-20,Foreign Exchange,Spot,7129,207911,48752,1417351
+Aug-20,Foreign Exchange,Options,126072,2061773,57925,690523
+Aug-20,Foreign Exchange,Others,106937,405612,30183,164487
+Aug-20,Interest Rate,Cross Currency Swap,45337,2016020,1458,91912
+Aug-20,Interest Rate,FRA,3050,467915,1281,270194
+Aug-20,Interest Rate,Interest Rate Swap,363106,14546049,32078,1860352
+Aug-20,Interest Rate,Options,12386,635254,737,43863
+Aug-20,Interest Rate,Others,10548,261680,621,22739

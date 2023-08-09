@@ -1,0 +1,1261 @@
+Reporting Month,Asset Class,Currency 1,Currency 2,Number of Open Positions,Aggregate Gross Notional Value of Open Positions (in USD million),Number of New Transactions,Aggregate Notional Value of New Transactions (in USD million)
+Oct-17,Credit,EUR,EUR,704,16716,85,2046
+Oct-17,Credit,USD,USD,11694,176463,557,29776
+Oct-17,Credit,Other Currencies,Other Currencies,621,10109,88,516
+Oct-17,Foreign Exchange,USD,AUD,41001,401335,28107,835648
+Oct-17,Foreign Exchange,USD,CNY,77635,1642636,27709,639831
+Oct-17,Foreign Exchange,USD,EUR,51834,689784,32027,1112874
+Oct-17,Foreign Exchange,USD,GBP,26275,414880,17720,684021
+Oct-17,Foreign Exchange,USD,HKD,18988,578082,9227,409598
+Oct-17,Foreign Exchange,USD,INR,71775,495265,42315,305262
+Oct-17,Foreign Exchange,USD,JPY,67530,1472620,35859,2084518
+Oct-17,Foreign Exchange,USD,KRW,56175,599740,36840,311405
+Oct-17,Foreign Exchange,USD,SGD,47196,645217,34386,914232
+Oct-17,Foreign Exchange,USD,TWD,36963,387047,25718,218795
+Oct-17,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,239065,2003325,150085,1553628
+Oct-17,Interest Rate (Cross Currency Swap),USD,AUD,5207,374956,193,31440
+Oct-17,Interest Rate (Cross Currency Swap),USD,CNY,3030,58994,125,2380
+Oct-17,Interest Rate (Cross Currency Swap),USD,EUR,1585,94817,102,5242
+Oct-17,Interest Rate (Cross Currency Swap),USD,GBP,328,65130,29,2837
+Oct-17,Interest Rate (Cross Currency Swap),USD,HKD,1801,47543,79,3510
+Oct-17,Interest Rate (Cross Currency Swap),USD,INR,2290,27308,236,3414
+Oct-17,Interest Rate (Cross Currency Swap),USD,JPY,3981,401631,159,28401
+Oct-17,Interest Rate (Cross Currency Swap),USD,KRW,936,24104,66,1924
+Oct-17,Interest Rate (Cross Currency Swap),USD,NZD,497,33540,14,955
+Oct-17,Interest Rate (Cross Currency Swap),USD,SGD,6806,207875,391,16669
+Oct-17,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4013,78586,366,5877
+Oct-17,Interest Rate (excluding Cross Currency Swap),AUD,AUD,26466,3629384,2676,555003
+Oct-17,Interest Rate (excluding Cross Currency Swap),HKD,HKD,10410,345812,773,45822
+Oct-17,Interest Rate (excluding Cross Currency Swap),INR,INR,12964,550685,1761,107585
+Oct-17,Interest Rate (excluding Cross Currency Swap),JPY,JPY,27619,3420880,1642,233052
+Oct-17,Interest Rate (excluding Cross Currency Swap),KRW,KRW,30791,1221026,1953,119800
+Oct-17,Interest Rate (excluding Cross Currency Swap),MYR,MYR,15153,361334,166,3274
+Oct-17,Interest Rate (excluding Cross Currency Swap),NZD,NZD,4571,248686,172,10730
+Oct-17,Interest Rate (excluding Cross Currency Swap),SGD,SGD,68122,2522227,5394,249652
+Oct-17,Interest Rate (excluding Cross Currency Swap),THB,THB,13340,437355,796,37622
+Oct-17,Interest Rate (excluding Cross Currency Swap),USD,USD,47314,2389454,3354,284063
+Oct-17,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,19828,666987,2026,108674
+Nov-17,Credit,EUR,EUR,718,17011,62,1117
+Nov-17,Credit,USD,USD,11972,184414,703,18001
+Nov-17,Credit,Other Currencies,Other Currencies,622,9794,32,663
+Nov-17,Foreign Exchange,USD,AUD,45142,422217,27337,928996
+Nov-17,Foreign Exchange,USD,CNY,73678,1452147,29146,642901
+Nov-17,Foreign Exchange,USD,EUR,60179,760865,35437,1239350
+Nov-17,Foreign Exchange,USD,GBP,27823,421824,16585,701295
+Nov-17,Foreign Exchange,USD,HKD,19767,599914,10965,523335
+Nov-17,Foreign Exchange,USD,INR,75191,536497,54457,375171
+Nov-17,Foreign Exchange,USD,JPY,70446,1521518,37006,1978391
+Nov-17,Foreign Exchange,USD,KRW,64943,699507,51374,436348
+Nov-17,Foreign Exchange,USD,SGD,49257,673023,31912,975177
+Nov-17,Foreign Exchange,USD,TWD,38401,448216,29016,296078
+Nov-17,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,221956,1961953,141206,1433113
+Nov-17,Interest Rate (Cross Currency Swap),USD,AUD,5171,391461,266,59868
+Nov-17,Interest Rate (Cross Currency Swap),USD,CNY,3039,60108,109,3744
+Nov-17,Interest Rate (Cross Currency Swap),USD,EUR,1644,98192,88,6386
+Nov-17,Interest Rate (Cross Currency Swap),USD,GBP,349,74545,28,12333
+Nov-17,Interest Rate (Cross Currency Swap),USD,HKD,1841,49991,79,3778
+Nov-17,Interest Rate (Cross Currency Swap),USD,INR,2344,27790,109,1178
+Nov-17,Interest Rate (Cross Currency Swap),USD,JPY,4046,414408,273,42291
+Nov-17,Interest Rate (Cross Currency Swap),USD,KRW,990,26310,71,2672
+Nov-17,Interest Rate (Cross Currency Swap),USD,NZD,503,33432,33,6013
+Nov-17,Interest Rate (Cross Currency Swap),USD,SGD,6934,211037,297,10298
+Nov-17,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4186,81107,279,4492
+Nov-17,Interest Rate (excluding Cross Currency Swap),AUD,AUD,27242,3620041,3705,778767
+Nov-17,Interest Rate (excluding Cross Currency Swap),HKD,HKD,10746,358072,665,26343
+Nov-17,Interest Rate (excluding Cross Currency Swap),INR,INR,13941,600450,1985,113054
+Nov-17,Interest Rate (excluding Cross Currency Swap),JPY,JPY,30775,4250527,1675,383327
+Nov-17,Interest Rate (excluding Cross Currency Swap),KRW,KRW,31023,1255354,1914,125448
+Nov-17,Interest Rate (excluding Cross Currency Swap),MYR,MYR,12697,304592,604,22374
+Nov-17,Interest Rate (excluding Cross Currency Swap),NZD,NZD,4830,273601,362,32289
+Nov-17,Interest Rate (excluding Cross Currency Swap),SGD,SGD,69809,2562908,4650,210480
+Nov-17,Interest Rate (excluding Cross Currency Swap),THB,THB,13691,459074,1283,63915
+Nov-17,Interest Rate (excluding Cross Currency Swap),USD,USD,47435,2459091,3683,344541
+Nov-17,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,19580,730091,1892,147390
+Dec-17,Credit,EUR,EUR,694,16388,23,317
+Dec-17,Credit,USD,USD,11751,182341,316,6160
+Dec-17,Credit,Other Currencies,Other Currencies,591,9387,14,477
+Dec-17,Foreign Exchange,USD,AUD,47252,419008,25021,901293
+Dec-17,Foreign Exchange,USD,CNY,61733,1161419,24317,591377
+Dec-17,Foreign Exchange,USD,EUR,53432,653887,26726,1108241
+Dec-17,Foreign Exchange,USD,GBP,23832,303316,13973,483982
+Dec-17,Foreign Exchange,USD,HKD,17994,553105,8964,506901
+Dec-17,Foreign Exchange,USD,INR,54974,411168,34034,241710
+Dec-17,Foreign Exchange,USD,JPY,64563,1329240,31110,1534878
+Dec-17,Foreign Exchange,USD,KRW,47740,557496,34449,308329
+Dec-17,Foreign Exchange,USD,SGD,41073,643944,27469,937077
+Dec-17,Foreign Exchange,USD,TWD,27649,336564,19708,188592
+Dec-17,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,186140,1741158,111914,1168748
+Dec-17,Interest Rate (Cross Currency Swap),USD,AUD,5042,375023,175,20392
+Dec-17,Interest Rate (Cross Currency Swap),USD,CNY,3041,59505,94,2310
+Dec-17,Interest Rate (Cross Currency Swap),USD,EUR,1641,101845,50,4539
+Dec-17,Interest Rate (Cross Currency Swap),USD,GBP,342,72810,11,816
+Dec-17,Interest Rate (Cross Currency Swap),USD,HKD,1938,53310,125,6679
+Dec-17,Interest Rate (Cross Currency Swap),USD,INR,2357,28084,43,654
+Dec-17,Interest Rate (Cross Currency Swap),USD,JPY,3999,396616,112,28957
+Dec-17,Interest Rate (Cross Currency Swap),USD,KRW,1124,28969,39,964
+Dec-17,Interest Rate (Cross Currency Swap),USD,NZD,502,32870,8,75
+Dec-17,Interest Rate (Cross Currency Swap),USD,SGD,6925,212308,149,6205
+Dec-17,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4210,80718,118,2554
+Dec-17,Interest Rate (excluding Cross Currency Swap),AUD,AUD,23289,2551642,2464,540775
+Dec-17,Interest Rate (excluding Cross Currency Swap),HKD,HKD,9435,295839,2908,115486
+Dec-17,Interest Rate (excluding Cross Currency Swap),INR,INR,14183,615776,1209,81006
+Dec-17,Interest Rate (excluding Cross Currency Swap),JPY,JPY,30684,4077208,1312,220410
+Dec-17,Interest Rate (excluding Cross Currency Swap),KRW,KRW,31618,1277970,1764,95812
+Dec-17,Interest Rate (excluding Cross Currency Swap),MYR,MYR,11981,281634,165,6220
+Dec-17,Interest Rate (excluding Cross Currency Swap),NZD,NZD,5033,287955,233,23869
+Dec-17,Interest Rate (excluding Cross Currency Swap),SGD,SGD,54656,2003255,9154,416344
+Dec-17,Interest Rate (excluding Cross Currency Swap),THB,THB,13780,454873,976,38378
+Dec-17,Interest Rate (excluding Cross Currency Swap),USD,USD,47904,2300605,2759,514503
+Dec-17,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,19741,734761,1499,103228
+Jan-18,Credit,EUR,EUR,688,16386,43,665
+Jan-18,Credit,USD,USD,12209,187733,765,14383
+Jan-18,Credit,Other Currencies,Other Currencies,534,9508,26,619
+Jan-18,Foreign Exchange,USD,AUD,45905,464277,33108,1209683
+Jan-18,Foreign Exchange,USD,CNY,65186,1252126,34775,857098
+Jan-18,Foreign Exchange,USD,EUR,44774,797291,41802,1467472
+Jan-18,Foreign Exchange,USD,GBP,22039,299961,21468,591384
+Jan-18,Foreign Exchange,USD,HKD,17978,564181,10754,545103
+Jan-18,Foreign Exchange,USD,INR,71890,488286,57123,334819
+Jan-18,Foreign Exchange,USD,JPY,71375,1559291,48241,2382827
+Jan-18,Foreign Exchange,USD,KRW,67544,698025,58636,444851
+Jan-18,Foreign Exchange,USD,SGD,41471,669579,37377,1283572
+Jan-18,Foreign Exchange,USD,TWD,43191,438265,36608,319764
+Jan-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,204473,2334977,158840,2500563
+Jan-18,Interest Rate (Cross Currency Swap),USD,AUD,5174,386850,301,39459
+Jan-18,Interest Rate (Cross Currency Swap),USD,CNY,2956,58055,139,3330
+Jan-18,Interest Rate (Cross Currency Swap),USD,EUR,1669,108540,98,13492
+Jan-18,Interest Rate (Cross Currency Swap),USD,GBP,334,64315,13,948
+Jan-18,Interest Rate (Cross Currency Swap),USD,HKD,1921,54095,225,6366
+Jan-18,Interest Rate (Cross Currency Swap),USD,INR,2418,28232,159,1607
+Jan-18,Interest Rate (Cross Currency Swap),USD,JPY,4049,410205,222,41427
+Jan-18,Interest Rate (Cross Currency Swap),USD,KRW,1044,27335,39,839
+Jan-18,Interest Rate (Cross Currency Swap),USD,NZD,533,34159,60,4553
+Jan-18,Interest Rate (Cross Currency Swap),USD,SGD,6774,206190,256,9463
+Jan-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4452,84434,349,6145
+Jan-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,23855,2766302,2758,667042
+Jan-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,9899,317226,1508,60468
+Jan-18,Interest Rate (excluding Cross Currency Swap),INR,INR,13173,624630,1955,121494
+Jan-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,30932,4068143,2130,334614
+Jan-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,31964,1331218,2194,153568
+Jan-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,11208,258075,222,7782
+Jan-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,5601,333864,438,48121
+Jan-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,58027,2104697,7756,343595
+Jan-18,Interest Rate (excluding Cross Currency Swap),THB,THB,14406,487817,1509,70405
+Jan-18,Interest Rate (excluding Cross Currency Swap),USD,USD,49353,2525003,4976,425629
+Jan-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,20450,813085,2496,180281
+Feb-18,Credit,EUR,EUR,765,16906,110,2287
+Feb-18,Credit,USD,USD,11121,171312,701,32251
+Feb-18,Credit,Other Currencies,Other Currencies,528,9472,33,718
+Feb-18,Foreign Exchange,USD,AUD,53574,497499,35440,1039983
+Feb-18,Foreign Exchange,USD,CNY,65313,1240649,26000,630039
+Feb-18,Foreign Exchange,USD,EUR,49436,941654,36323,1593980
+Feb-18,Foreign Exchange,USD,GBP,26018,329510,19241,552731
+Feb-18,Foreign Exchange,USD,HKD,17653,561840,8702,459517
+Feb-18,Foreign Exchange,USD,INR,81216,538695,55729,308746
+Feb-18,Foreign Exchange,USD,JPY,71156,1754346,41010,2606042
+Feb-18,Foreign Exchange,USD,KRW,76916,735325,57851,414349
+Feb-18,Foreign Exchange,USD,SGD,46785,706455,35880,936093
+Feb-18,Foreign Exchange,USD,TWD,43867,428917,34296,266295
+Feb-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,220318,1508463,150475,1601764
+Feb-18,Interest Rate (Cross Currency Swap),USD,AUD,5412,401575,379,46958
+Feb-18,Interest Rate (Cross Currency Swap),USD,CNY,3046,60073,151,2830
+Feb-18,Interest Rate (Cross Currency Swap),USD,EUR,1736,109996,79,7350
+Feb-18,Interest Rate (Cross Currency Swap),USD,GBP,350,61352,25,3093
+Feb-18,Interest Rate (Cross Currency Swap),USD,HKD,2178,60163,88,2846
+Feb-18,Interest Rate (Cross Currency Swap),USD,INR,2589,30203,148,1629
+Feb-18,Interest Rate (Cross Currency Swap),USD,JPY,4032,406934,215,38731
+Feb-18,Interest Rate (Cross Currency Swap),USD,KRW,1150,29640,24,722
+Feb-18,Interest Rate (Cross Currency Swap),USD,NZD,569,37241,56,5944
+Feb-18,Interest Rate (Cross Currency Swap),USD,SGD,6856,209887,124,6847
+Feb-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4653,88766,231,4475
+Feb-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,23409,2957228,3277,939905
+Feb-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,10150,324034,1519,52302
+Feb-18,Interest Rate (excluding Cross Currency Swap),INR,INR,14514,673664,2020,115846
+Feb-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,31340,4019571,1534,239619
+Feb-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,28852,1237509,1522,102435
+Feb-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,11374,258362,225,6750
+Feb-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,5840,360943,384,45126
+Feb-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,61495,2239958,14463,701553
+Feb-18,Interest Rate (excluding Cross Currency Swap),THB,THB,15273,516062,897,34970
+Feb-18,Interest Rate (excluding Cross Currency Swap),USD,USD,52034,2748087,4464,402653
+Feb-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,21786,929992,1730,198897
+Mar-18,Credit,EUR,EUR,792,18027,37,947
+Mar-18,Credit,USD,USD,11758,180389,583,16542
+Mar-18,Credit,Other Currencies,Other Currencies,498,8736,67,1773
+Mar-18,Foreign Exchange,USD,AUD,52213,455385,36194,988576
+Mar-18,Foreign Exchange,USD,CNY,59488,1115913,27054,640728
+Mar-18,Foreign Exchange,USD,EUR,44980,749940,34169,1541815
+Mar-18,Foreign Exchange,USD,GBP,22873,344587,18498,709421
+Mar-18,Foreign Exchange,USD,HKD,17945,568309,12337,652105
+Mar-18,Foreign Exchange,USD,INR,48828,435568,40549,321268
+Mar-18,Foreign Exchange,USD,JPY,70087,1682515,44286,2675691
+Mar-18,Foreign Exchange,USD,KRW,60888,619678,50252,402603
+Mar-18,Foreign Exchange,USD,SGD,40535,653312,34906,1157881
+Mar-18,Foreign Exchange,USD,TWD,38518,420748,31414,326281
+Mar-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,207686,1427323,165418,1633142
+Mar-18,Interest Rate (Cross Currency Swap),USD,AUD,5534,405189,307,40335
+Mar-18,Interest Rate (Cross Currency Swap),USD,CNY,2960,58077,105,2298
+Mar-18,Interest Rate (Cross Currency Swap),USD,EUR,1754,108370,61,4638
+Mar-18,Interest Rate (Cross Currency Swap),USD,GBP,349,54153,30,14016
+Mar-18,Interest Rate (Cross Currency Swap),USD,HKD,2238,60944,121,4014
+Mar-18,Interest Rate (Cross Currency Swap),USD,INR,2665,30516,134,1120
+Mar-18,Interest Rate (Cross Currency Swap),USD,JPY,4002,398263,183,36435
+Mar-18,Interest Rate (Cross Currency Swap),USD,KRW,1035,27895,22,745
+Mar-18,Interest Rate (Cross Currency Swap),USD,NZD,584,40844,60,7336
+Mar-18,Interest Rate (Cross Currency Swap),USD,SGD,6882,211522,338,14150
+Mar-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4701,92043,264,5727
+Mar-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,24878,2831354,3239,626422
+Mar-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,10629,355688,1214,64212
+Mar-18,Interest Rate (excluding Cross Currency Swap),INR,INR,15289,675714,1963,102314
+Mar-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,30321,4032179,2650,539768
+Mar-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,29067,1253055,1784,120875
+Mar-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,10707,229103,120,3676
+Mar-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,6036,355436,510,33941
+Mar-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,60789,2171022,7051,340354
+Mar-18,Interest Rate (excluding Cross Currency Swap),THB,THB,15659,531482,1366,58814
+Mar-18,Interest Rate (excluding Cross Currency Swap),USD,USD,52677,2935779,5823,668005
+Mar-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,22484,991766,2056,164979
+Apr-18,Credit,EUR,EUR,770,18053,31,681
+Apr-18,Credit,USD,USD,11912,180938,425,7914
+Apr-18,Credit,Other Currencies,Other Currencies,501,9476,50,885
+Apr-18,Foreign Exchange,USD,AUD,52767,563200,35025,1130178
+Apr-18,Foreign Exchange,USD,CNY,60793,1088770,27556,574242
+Apr-18,Foreign Exchange,USD,EUR,47079,861074,34330,1675942
+Apr-18,Foreign Exchange,USD,GBP,27523,541981,24594,1111867
+Apr-18,Foreign Exchange,USD,HKD,19419,644350,11594,541797
+Apr-18,Foreign Exchange,USD,INR,56937,457899,47262,329319
+Apr-18,Foreign Exchange,USD,JPY,72002,1555519,45126,2737954
+Apr-18,Foreign Exchange,USD,KRW,66174,572090,49836,337694
+Apr-18,Foreign Exchange,USD,SGD,43840,666333,35265,1055742
+Apr-18,Foreign Exchange,USD,TWD,38598,414023,29735,274701
+Apr-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,221864,1562851,174947,1825692
+Apr-18,Interest Rate (Cross Currency Swap),USD,AUD,5627,400261,294,32136
+Apr-18,Interest Rate (Cross Currency Swap),USD,CNY,2953,58250,123,2568
+Apr-18,Interest Rate (Cross Currency Swap),USD,EUR,1792,108371,58,3950
+Apr-18,Interest Rate (Cross Currency Swap),USD,GBP,354,57168,10,4491
+Apr-18,Interest Rate (Cross Currency Swap),USD,HKD,2268,62661,93,3970
+Apr-18,Interest Rate (Cross Currency Swap),USD,INR,2694,31234,77,1266
+Apr-18,Interest Rate (Cross Currency Swap),USD,JPY,3937,377772,122,26622
+Apr-18,Interest Rate (Cross Currency Swap),USD,KRW,1028,27498,13,276
+Apr-18,Interest Rate (Cross Currency Swap),USD,NZD,571,39689,31,2106
+Apr-18,Interest Rate (Cross Currency Swap),USD,SGD,7131,209443,164,5960
+Apr-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4917,97558,252,5059
+Apr-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,25715,2946910,2224,420598
+Apr-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,10074,351071,1052,62709
+Apr-18,Interest Rate (excluding Cross Currency Swap),INR,INR,15961,696463,1646,95268
+Apr-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,31470,4278062,3156,648278
+Apr-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,30200,1328741,1864,135454
+Apr-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,10752,219947,113,2957
+Apr-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,6234,366334,412,27859
+Apr-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,62561,2225819,5294,256143
+Apr-18,Interest Rate (excluding Cross Currency Swap),THB,THB,16335,556892,1198,54049
+Apr-18,Interest Rate (excluding Cross Currency Swap),USD,USD,51771,2923527,4211,470528
+Apr-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,22097,1063510,1689,176269
+May-18,Credit,EUR,EUR,662,15000,92,1817
+May-18,Credit,USD,USD,11496,171067,1077,24170
+May-18,Credit,Other Currencies,Other Currencies,528,9337,54,516
+May-18,Foreign Exchange,USD,AUD,52769,555414,36591,1057307
+May-18,Foreign Exchange,USD,CNY,63560,1161703,32212,736959
+May-18,Foreign Exchange,USD,EUR,52363,940046,44705,1668777
+May-18,Foreign Exchange,USD,GBP,28388,534808,22552,1153101
+May-18,Foreign Exchange,USD,HKD,19938,681789,12693,617474
+May-18,Foreign Exchange,USD,INR,78162,560865,60102,404582
+May-18,Foreign Exchange,USD,JPY,76335,1728442,44867,2499493
+May-18,Foreign Exchange,USD,KRW,63387,581775,48369,327246
+May-18,Foreign Exchange,USD,SGD,48340,684612,42575,1103533
+May-18,Foreign Exchange,USD,TWD,45031,454830,36717,325000
+May-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,246883,1746924,197893,1976046
+May-18,Interest Rate (Cross Currency Swap),USD,AUD,5589,402545,212,23802
+May-18,Interest Rate (Cross Currency Swap),USD,CNY,3012,59925,189,4658
+May-18,Interest Rate (Cross Currency Swap),USD,EUR,1923,119435,173,15723
+May-18,Interest Rate (Cross Currency Swap),USD,GBP,548,75243,149,17755
+May-18,Interest Rate (Cross Currency Swap),USD,HKD,2279,62665,88,3341
+May-18,Interest Rate (Cross Currency Swap),USD,INR,2694,31175,39,320
+May-18,Interest Rate (Cross Currency Swap),USD,JPY,5604,490777,254,55739
+May-18,Interest Rate (Cross Currency Swap),USD,KRW,1023,27294,11,196
+May-18,Interest Rate (Cross Currency Swap),USD,NZD,572,40594,26,2507
+May-18,Interest Rate (Cross Currency Swap),USD,SGD,7189,206589,265,7543
+May-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4903,100941,158,7558
+May-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,24510,2557167,3079,602591
+May-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,10974,398394,1288,71704
+May-18,Interest Rate (excluding Cross Currency Swap),INR,INR,16660,761859,2222,148729
+May-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,34939,4091886,3239,853338
+May-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,30937,1383347,1877,180186
+May-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,10768,217474,316,7723
+May-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,6378,352643,570,32690
+May-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,64284,2279271,5522,253614
+May-18,Interest Rate (excluding Cross Currency Swap),THB,THB,16946,570214,1255,43353
+May-18,Interest Rate (excluding Cross Currency Swap),USD,USD,54008,3227574,6332,741010
+May-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,22888,1281297,2998,548306
+Jun-18,Credit,EUR,EUR,593,13283,35,1909
+Jun-18,Credit,USD,USD,10374,160900,565,14005
+Jun-18,Credit,Other Currencies,Other Currencies,522,9507,43,493
+Jun-18,Foreign Exchange,USD,AUD,51465,534375,34719,1054399
+Jun-18,Foreign Exchange,USD,CNY,65682,1261796,33460,756507
+Jun-18,Foreign Exchange,USD,EUR,53034,855828,37283,1627742
+Jun-18,Foreign Exchange,USD,GBP,29184,491443,19859,938834
+Jun-18,Foreign Exchange,USD,HKD,20077,668358,12467,559571
+Jun-18,Foreign Exchange,USD,INR,84155,551205,58230,343799
+Jun-18,Foreign Exchange,USD,JPY,75482,1731022,40200,2601832
+Jun-18,Foreign Exchange,USD,KRW,68383,618600,53796,414545
+Jun-18,Foreign Exchange,USD,SGD,45141,627000,35582,964798
+Jun-18,Foreign Exchange,USD,TWD,44458,431617,34123,285681
+Jun-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,247172,1731423,192270,1747725
+Jun-18,Interest Rate (Cross Currency Swap),USD,AUD,5713,417026,300,48526
+Jun-18,Interest Rate (Cross Currency Swap),USD,CNY,3013,59160,84,1591
+Jun-18,Interest Rate (Cross Currency Swap),USD,EUR,1897,116549,103,10807
+Jun-18,Interest Rate (Cross Currency Swap),USD,GBP,501,57739,73,9656
+Jun-18,Interest Rate (Cross Currency Swap),USD,HKD,2375,68284,99,6207
+Jun-18,Interest Rate (Cross Currency Swap),USD,INR,2737,31577,71,594
+Jun-18,Interest Rate (Cross Currency Swap),USD,JPY,5539,470489,207,39278
+Jun-18,Interest Rate (Cross Currency Swap),USD,KRW,1036,27195,38,1109
+Jun-18,Interest Rate (Cross Currency Swap),USD,NZD,574,39778,36,5206
+Jun-18,Interest Rate (Cross Currency Swap),USD,SGD,7216,206222,170,7132
+Jun-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4791,102591,194,8762
+Jun-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,25530,2699837,3106,697392
+Jun-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,11463,420229,1118,49886
+Jun-18,Interest Rate (excluding Cross Currency Swap),INR,INR,18332,852444,2666,163684
+Jun-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,35468,3893945,2953,1120307
+Jun-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,31599,1418568,1739,102128
+Jun-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,10665,213249,302,8555
+Jun-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,6310,350050,530,39602
+Jun-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,55226,1940034,5488,253362
+Jun-18,Interest Rate (excluding Cross Currency Swap),THB,THB,17177,564434,1307,39795
+Jun-18,Interest Rate (excluding Cross Currency Swap),USD,USD,54757,3275436,5035,589182
+Jun-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,23423,1152726,2073,115063
+Jul-18,Credit,EUR,EUR,611,15696,38,2721
+Jul-18,Credit,USD,USD,11477,169209,544,11092
+Jul-18,Credit,Other Currencies,Other Currencies,547,8655,154,1031
+Jul-18,Foreign Exchange,USD,AUD,50985,553499,32570,959563
+Jul-18,Foreign Exchange,USD,CNY,73402,1463093,40574,1011782
+Jul-18,Foreign Exchange,USD,EUR,51621,768218,33586,1525864
+Jul-18,Foreign Exchange,USD,GBP,29889,422623,20281,752451
+Jul-18,Foreign Exchange,USD,HKD,19120,643785,13241,620693
+Jul-18,Foreign Exchange,USD,INR,75248,514643,51282,321057
+Jul-18,Foreign Exchange,USD,JPY,76148,1600111,49633,2172326
+Jul-18,Foreign Exchange,USD,KRW,70994,637445,54668,373058
+Jul-18,Foreign Exchange,USD,SGD,45873,671692,38551,1035285
+Jul-18,Foreign Exchange,USD,TWD,46122,435830,35500,290240
+Jul-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,250844,1682087,192523,1643382
+Jul-18,Interest Rate (Cross Currency Swap),USD,AUD,5789,429637,488,39629
+Jul-18,Interest Rate (Cross Currency Swap),USD,CNY,3019,59369,110,2827
+Jul-18,Interest Rate (Cross Currency Swap),USD,EUR,1915,121157,77,7959
+Jul-18,Interest Rate (Cross Currency Swap),USD,GBP,517,62714,30,7289
+Jul-18,Interest Rate (Cross Currency Swap),USD,HKD,2382,68070,53,2154
+Jul-18,Interest Rate (Cross Currency Swap),USD,INR,2764,31866,40,333
+Jul-18,Interest Rate (Cross Currency Swap),USD,JPY,5646,503884,266,75116
+Jul-18,Interest Rate (Cross Currency Swap),USD,KRW,1055,28842,39,2187
+Jul-18,Interest Rate (Cross Currency Swap),USD,NZD,560,37731,23,1180
+Jul-18,Interest Rate (Cross Currency Swap),USD,SGD,7565,220679,516,21080
+Jul-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4801,101032,204,7921
+Jul-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,25463,2815526,2674,629658
+Jul-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,11616,421329,815,34416
+Jul-18,Interest Rate (excluding Cross Currency Swap),INR,INR,19456,900603,2237,144978
+Jul-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33511,3929092,2966,372003
+Jul-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,32841,1473082,2927,145425
+Jul-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,10663,208357,469,8260
+Jul-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,6323,347270,414,29546
+Jul-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,58301,2030649,6130,254416
+Jul-18,Interest Rate (excluding Cross Currency Swap),THB,THB,17835,582462,1235,41603
+Jul-18,Interest Rate (excluding Cross Currency Swap),USD,USD,53295,3148571,4407,399549
+Jul-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,22935,1022643,3288,159385
+Aug-18,Credit,EUR,EUR,566,14293,59,2522
+Aug-18,Credit,USD,USD,10448,172574,401,13169
+Aug-18,Credit,Other Currencies,Other Currencies,626,9272,87,671
+Aug-18,Foreign Exchange,USD,AUD,53561,621705,35682,1159169
+Aug-18,Foreign Exchange,USD,CNY,75055,1529505,36005,943572
+Aug-18,Foreign Exchange,USD,EUR,61411,798591,46934,1495662
+Aug-18,Foreign Exchange,USD,GBP,37123,360387,29789,755939
+Aug-18,Foreign Exchange,USD,HKD,18281,570097,12512,650634
+Aug-18,Foreign Exchange,USD,INR,78617,546313,62049,366253
+Aug-18,Foreign Exchange,USD,JPY,80825,1692109,43260,2352797
+Aug-18,Foreign Exchange,USD,KRW,67885,659457,52748,357515
+Aug-18,Foreign Exchange,USD,SGD,48616,663841,38248,1040650
+Aug-18,Foreign Exchange,USD,TWD,43709,435495,32896,262615
+Aug-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,257861,1652989,217606,1719585
+Aug-18,Interest Rate (Cross Currency Swap),USD,AUD,6051,447456,223,22471
+Aug-18,Interest Rate (Cross Currency Swap),USD,CNY,3128,60634,122,2492
+Aug-18,Interest Rate (Cross Currency Swap),USD,EUR,1940,123227,78,4992
+Aug-18,Interest Rate (Cross Currency Swap),USD,GBP,501,64849,23,7367
+Aug-18,Interest Rate (Cross Currency Swap),USD,HKD,2444,69913,60,2440
+Aug-18,Interest Rate (Cross Currency Swap),USD,INR,2906,33172,142,1418
+Aug-18,Interest Rate (Cross Currency Swap),USD,JPY,5440,526671,340,82956
+Aug-18,Interest Rate (Cross Currency Swap),USD,KRW,1020,29700,35,1797
+Aug-18,Interest Rate (Cross Currency Swap),USD,NZD,574,40644,6,687
+Aug-18,Interest Rate (Cross Currency Swap),USD,SGD,7881,231099,478,19517
+Aug-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,4984,106618,198,7395
+Aug-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,25504,2629854,2841,532305
+Aug-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12663,450239,1168,56190
+Aug-18,Interest Rate (excluding Cross Currency Swap),INR,INR,20338,926724,1579,98959
+Aug-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33765,3826595,3699,474125
+Aug-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,33749,1504272,2094,126253
+Aug-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,10662,206241,261,6694
+Aug-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,6402,367561,455,62698
+Aug-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,62503,2192263,6044,297090
+Aug-18,Interest Rate (excluding Cross Currency Swap),THB,THB,15540,501285,1416,52486
+Aug-18,Interest Rate (excluding Cross Currency Swap),USD,USD,56182,3314370,4302,480729
+Aug-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,24604,1041484,1838,95050
+Sep-18,Credit,EUR,EUR,557,15046,67,5517
+Sep-18,Credit,USD,USD,10507,175464,601,15230
+Sep-18,Credit,Other Currencies,Other Currencies,569,8565,61,1279
+Sep-18,Foreign Exchange,USD,AUD,50915,680816,34672,1138678
+Sep-18,Foreign Exchange,USD,CNY,69889,1427304,31189,713564
+Sep-18,Foreign Exchange,USD,EUR,57569,768619,34167,1452690
+Sep-18,Foreign Exchange,USD,GBP,37159,414688,22629,785923
+Sep-18,Foreign Exchange,USD,HKD,18377,588953,12744,551825
+Sep-18,Foreign Exchange,USD,INR,91053,611433,65187,384100
+Sep-18,Foreign Exchange,USD,JPY,76088,1559991,37017,1907139
+Sep-18,Foreign Exchange,USD,KRW,63794,574559,45341,317908
+Sep-18,Foreign Exchange,USD,SGD,46734,673393,34083,963179
+Sep-18,Foreign Exchange,USD,TWD,39014,435676,28332,268528
+Sep-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,260004,1628788,204158,1623278
+Sep-18,Interest Rate (Cross Currency Swap),USD,AUD,5917,435447,173,17534
+Sep-18,Interest Rate (Cross Currency Swap),USD,CNY,3137,58831,131,2362
+Sep-18,Interest Rate (Cross Currency Swap),USD,EUR,2013,127505,57,5649
+Sep-18,Interest Rate (Cross Currency Swap),USD,GBP,504,61256,12,3886
+Sep-18,Interest Rate (Cross Currency Swap),USD,HKD,2472,70584,85,3275
+Sep-18,Interest Rate (Cross Currency Swap),USD,INR,2925,33311,38,320
+Sep-18,Interest Rate (Cross Currency Swap),USD,JPY,5712,527922,324,46035
+Sep-18,Interest Rate (Cross Currency Swap),USD,KRW,858,25770,13,426
+Sep-18,Interest Rate (Cross Currency Swap),USD,NZD,604,41161,33,2689
+Sep-18,Interest Rate (Cross Currency Swap),USD,SGD,7971,231739,260,12461
+Sep-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5111,110340,162,4437
+Sep-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,27301,2584976,2931,421558
+Sep-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,13222,473005,1184,56100
+Sep-18,Interest Rate (excluding Cross Currency Swap),INR,INR,21801,999606,2420,156460
+Sep-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33954,3822413,2652,505963
+Sep-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,34748,1552074,2130,126625
+Sep-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,10571,200739,365,10345
+Sep-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,6520,373874,524,40193
+Sep-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,65193,2268596,7229,314336
+Sep-18,Interest Rate (excluding Cross Currency Swap),THB,THB,16381,520108,1759,62512
+Sep-18,Interest Rate (excluding Cross Currency Swap),USD,USD,57783,3440147,4407,590226
+Sep-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,24979,1055647,1895,168017
+Oct-18,Credit,EUR,EUR,554,13917,44,2497
+Oct-18,Credit,USD,USD,10518,176864,325,10160
+Oct-18,Credit,Other Currencies,Other Currencies,630,8773,89,808
+Oct-18,Foreign Exchange,USD,AUD,45184,638098,29961,1034537
+Oct-18,Foreign Exchange,USD,CNY,76459,1626522,39960,950135
+Oct-18,Foreign Exchange,USD,EUR,55397,722261,37414,1386152
+Oct-18,Foreign Exchange,USD,GBP,36148,384995,25232,917255
+Oct-18,Foreign Exchange,USD,HKD,17146,568670,10888,504196
+Oct-18,Foreign Exchange,USD,INR,92372,657365,72083,431515
+Oct-18,Foreign Exchange,USD,JPY,75809,1723531,47604,2567793
+Oct-18,Foreign Exchange,USD,KRW,70137,617110,54462,337028
+Oct-18,Foreign Exchange,USD,SGD,45808,648447,38022,1125456
+Oct-18,Foreign Exchange,USD,TWD,48139,500348,39293,348512
+Oct-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,261360,1631681,220923,1714634
+Oct-18,Interest Rate (Cross Currency Swap),USD,AUD,6088,458628,218,41805
+Oct-18,Interest Rate (Cross Currency Swap),USD,CNY,3077,57042,77,1318
+Oct-18,Interest Rate (Cross Currency Swap),USD,EUR,2044,129110,89,6873
+Oct-18,Interest Rate (Cross Currency Swap),USD,GBP,510,61121,24,3725
+Oct-18,Interest Rate (Cross Currency Swap),USD,HKD,2546,72896,115,4203
+Oct-18,Interest Rate (Cross Currency Swap),USD,INR,2941,32905,60,415
+Oct-18,Interest Rate (Cross Currency Swap),USD,JPY,5847,552714,335,48759
+Oct-18,Interest Rate (Cross Currency Swap),USD,KRW,872,26018,38,1060
+Oct-18,Interest Rate (Cross Currency Swap),USD,NZD,602,40973,13,956
+Oct-18,Interest Rate (Cross Currency Swap),USD,SGD,7999,233512,215,9344
+Oct-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5091,113058,142,6430
+Oct-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,28936,2769744,2980,451222
+Oct-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12635,460705,1409,71502
+Oct-18,Interest Rate (excluding Cross Currency Swap),INR,INR,22025,1045211,3695,208903
+Oct-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,35025,4162090,3516,684247
+Oct-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,35680,1562179,3780,206422
+Oct-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,10450,196605,255,5304
+Oct-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,6856,436306,646,85746
+Oct-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,66352,2308063,6658,293371
+Oct-18,Interest Rate (excluding Cross Currency Swap),THB,THB,17218,576433,1603,51314
+Oct-18,Interest Rate (excluding Cross Currency Swap),USD,USD,56397,3323789,4755,611737
+Oct-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,25741,1176609,2572,216242
+Nov-18,Credit,EUR,EUR,550,13649,51,1593
+Nov-18,Credit,USD,USD,10676,182225,377,21219
+Nov-18,Credit,Other Currencies,Other Currencies,623,8924,55,493
+Nov-18,Foreign Exchange,USD,AUD,48685,658220,33537,882668
+Nov-18,Foreign Exchange,USD,CNY,76360,1647197,33757,834066
+Nov-18,Foreign Exchange,USD,EUR,58646,718126,37715,1239131
+Nov-18,Foreign Exchange,USD,GBP,38750,406479,26660,688709
+Nov-18,Foreign Exchange,USD,HKD,17455,622268,11737,594882
+Nov-18,Foreign Exchange,USD,INR,94198,709818,66424,412656
+Nov-18,Foreign Exchange,USD,JPY,76008,1877714,40444,2547284
+Nov-18,Foreign Exchange,USD,KRW,64665,612093,46767,326468
+Nov-18,Foreign Exchange,USD,SGD,46818,679466,33277,1034526
+Nov-18,Foreign Exchange,USD,TWD,46052,497289,33719,303491
+Nov-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,270564,1670787,207121,1624774
+Nov-18,Interest Rate (Cross Currency Swap),USD,AUD,6204,472023,212,37649
+Nov-18,Interest Rate (Cross Currency Swap),USD,CNY,3052,54863,83,1811
+Nov-18,Interest Rate (Cross Currency Swap),USD,EUR,2066,131897,66,7196
+Nov-18,Interest Rate (Cross Currency Swap),USD,GBP,504,63089,13,5243
+Nov-18,Interest Rate (Cross Currency Swap),USD,HKD,2624,76177,130,5206
+Nov-18,Interest Rate (Cross Currency Swap),USD,INR,2942,32911,58,773
+Nov-18,Interest Rate (Cross Currency Swap),USD,JPY,5782,544432,298,61425
+Nov-18,Interest Rate (Cross Currency Swap),USD,KRW,885,26524,30,1100
+Nov-18,Interest Rate (Cross Currency Swap),USD,NZD,633,45370,46,7112
+Nov-18,Interest Rate (Cross Currency Swap),USD,SGD,7984,235381,225,10523
+Nov-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5197,113857,219,4561
+Nov-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,29441,2712160,4422,636565
+Nov-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,13295,514647,1319,85479
+Nov-18,Interest Rate (excluding Cross Currency Swap),INR,INR,23488,1087466,2324,105362
+Nov-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,34785,4046418,2978,455013
+Nov-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,35116,1498038,3732,186174
+Nov-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,9213,167219,261,4732
+Nov-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,8136,511887,1558,91549
+Nov-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,68664,2390842,4813,200761
+Nov-18,Interest Rate (excluding Cross Currency Swap),THB,THB,18076,600599,1865,66701
+Nov-18,Interest Rate (excluding Cross Currency Swap),USD,USD,57450,3434430,5864,721159
+Nov-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,26358,1146270,2290,149200
+Dec-18,Credit,EUR,EUR,512,12528,28,1002
+Dec-18,Credit,USD,USD,10514,175034,205,4800
+Dec-18,Credit,Other Currencies,Other Currencies,724,9116,212,1561
+Dec-18,Foreign Exchange,USD,AUD,42104,566307,26474,892985
+Dec-18,Foreign Exchange,USD,CNY,69342,1554861,30090,838139
+Dec-18,Foreign Exchange,USD,EUR,54228,648243,29098,971211
+Dec-18,Foreign Exchange,USD,GBP,32555,377943,22572,667078
+Dec-18,Foreign Exchange,USD,HKD,15954,569571,11041,531372
+Dec-18,Foreign Exchange,USD,INR,81346,565115,57802,290788
+Dec-18,Foreign Exchange,USD,JPY,69873,1676822,36577,1905615
+Dec-18,Foreign Exchange,USD,KRW,47288,522715,37008,293142
+Dec-18,Foreign Exchange,USD,SGD,41598,616546,27179,967572
+Dec-18,Foreign Exchange,USD,TWD,34455,456690,29716,333708
+Dec-18,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,229876,1337808,164955,1298166
+Dec-18,Interest Rate (Cross Currency Swap),USD,AUD,6265,464513,192,22177
+Dec-18,Interest Rate (Cross Currency Swap),USD,CNY,2980,53134,55,1049
+Dec-18,Interest Rate (Cross Currency Swap),USD,EUR,2042,127471,48,3385
+Dec-18,Interest Rate (Cross Currency Swap),USD,GBP,493,49747,14,1420
+Dec-18,Interest Rate (Cross Currency Swap),USD,HKD,2643,76276,40,1094
+Dec-18,Interest Rate (Cross Currency Swap),USD,INR,2999,33743,79,1147
+Dec-18,Interest Rate (Cross Currency Swap),USD,JPY,5748,523541,258,34660
+Dec-18,Interest Rate (Cross Currency Swap),USD,KRW,868,25486,7,272
+Dec-18,Interest Rate (Cross Currency Swap),USD,NZD,662,47536,47,4158
+Dec-18,Interest Rate (Cross Currency Swap),USD,SGD,8019,236592,178,8364
+Dec-18,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5194,111923,129,3919
+Dec-18,Interest Rate (excluding Cross Currency Swap),AUD,AUD,29911,2584902,2971,524079
+Dec-18,Interest Rate (excluding Cross Currency Swap),HKD,HKD,13775,543139,1305,70322
+Dec-18,Interest Rate (excluding Cross Currency Swap),INR,INR,26661,1204507,2920,143141
+Dec-18,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33904,3754772,3458,454470
+Dec-18,Interest Rate (excluding Cross Currency Swap),KRW,KRW,36177,1534586,2357,140331
+Dec-18,Interest Rate (excluding Cross Currency Swap),MYR,MYR,9113,163309,186,5545
+Dec-18,Interest Rate (excluding Cross Currency Swap),NZD,NZD,8533,529249,692,43183
+Dec-18,Interest Rate (excluding Cross Currency Swap),SGD,SGD,66357,2297516,6560,384647
+Dec-18,Interest Rate (excluding Cross Currency Swap),THB,THB,18252,588561,1371,40257
+Dec-18,Interest Rate (excluding Cross Currency Swap),USD,USD,57142,3107372,4209,451439
+Dec-18,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,28645,1159733,2409,173535
+Jan-19,Credit,EUR,EUR,575,13417,111,2375
+Jan-19,Credit,USD,USD,10721,180950,493,10072
+Jan-19,Credit,Other Currencies,Other Currencies,820,9753,163,1668
+Jan-19,Foreign Exchange,USD,AUD,42654,669464,38456,1084413
+Jan-19,Foreign Exchange,USD,CNY,68025,1557897,38548,1169443
+Jan-19,Foreign Exchange,USD,EUR,59051,619808,39010,1443854
+Jan-19,Foreign Exchange,USD,GBP,35845,436059,29402,905850
+Jan-19,Foreign Exchange,USD,HKD,16864,646800,14465,718230
+Jan-19,Foreign Exchange,USD,INR,81616,630228,60713,365960
+Jan-19,Foreign Exchange,USD,JPY,76825,2015194,52785,3081305
+Jan-19,Foreign Exchange,USD,KRW,55351,568753,45323,325951
+Jan-19,Foreign Exchange,USD,SGD,43445,686464,36887,1251145
+Jan-19,Foreign Exchange,USD,TWD,46053,574181,39949,456382
+Jan-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,257173,1597215,209641,1776486
+Jan-19,Interest Rate (Cross Currency Swap),USD,AUD,6341,468619,191,24823
+Jan-19,Interest Rate (Cross Currency Swap),USD,CNY,2941,51909,63,870
+Jan-19,Interest Rate (Cross Currency Swap),USD,EUR,2039,125803,72,5051
+Jan-19,Interest Rate (Cross Currency Swap),USD,GBP,501,49661,15,2710
+Jan-19,Interest Rate (Cross Currency Swap),USD,HKD,2623,75163,50,1667
+Jan-19,Interest Rate (Cross Currency Swap),USD,INR,3047,34220,69,509
+Jan-19,Interest Rate (Cross Currency Swap),USD,JPY,5957,574110,444,100392
+Jan-19,Interest Rate (Cross Currency Swap),USD,KRW,877,24837,36,535
+Jan-19,Interest Rate (Cross Currency Swap),USD,NZD,699,52523,54,6173
+Jan-19,Interest Rate (Cross Currency Swap),USD,SGD,7977,235533,251,9067
+Jan-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5208,112462,171,4870
+Jan-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,32239,3149049,3393,832983
+Jan-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,13101,534498,2422,143955
+Jan-19,Interest Rate (excluding Cross Currency Swap),INR,INR,26654,1150189,3305,153370
+Jan-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,35726,4072936,3926,732650
+Jan-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,34773,1398168,2397,123658
+Jan-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,9069,160640,238,5229
+Jan-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,8204,621500,946,218777
+Jan-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,66784,2303651,7550,316014
+Jan-19,Interest Rate (excluding Cross Currency Swap),THB,THB,19116,608537,1591,48770
+Jan-19,Interest Rate (excluding Cross Currency Swap),USD,USD,57894,3201074,5651,707667
+Jan-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,28224,1178261,2917,218128
+Feb-19,Credit,EUR,EUR,646,15198,123,3541
+Feb-19,Credit,USD,USD,11006,188420,463,10092
+Feb-19,Credit,Other Currencies,Other Currencies,923,10641,175,1620
+Feb-19,Foreign Exchange,USD,AUD,45723,735882,31059,1036264
+Feb-19,Foreign Exchange,USD,CNY,67594,1560340,26003,724791
+Feb-19,Foreign Exchange,USD,EUR,60899,621450,33073,1109006
+Feb-19,Foreign Exchange,USD,GBP,34524,449587,21778,852911
+Feb-19,Foreign Exchange,USD,HKD,18265,715383,10169,462420
+Feb-19,Foreign Exchange,USD,INR,87619,698598,59265,386567
+Feb-19,Foreign Exchange,USD,JPY,73968,2083034,36433,2560968
+Feb-19,Foreign Exchange,USD,KRW,55572,563740,33589,236885
+Feb-19,Foreign Exchange,USD,SGD,42763,676851,26259,932571
+Feb-19,Foreign Exchange,USD,TWD,34757,456075,20125,177493
+Feb-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,259408,1536865,174771,1567997
+Feb-19,Interest Rate (Cross Currency Swap),USD,AUD,6379,471520,149,30425
+Feb-19,Interest Rate (Cross Currency Swap),USD,CNY,2913,51324,79,1463
+Feb-19,Interest Rate (Cross Currency Swap),USD,EUR,2109,129041,115,10168
+Feb-19,Interest Rate (Cross Currency Swap),USD,GBP,488,46362,10,1016
+Feb-19,Interest Rate (Cross Currency Swap),USD,HKD,2659,76075,94,3337
+Feb-19,Interest Rate (Cross Currency Swap),USD,INR,3116,34456,94,693
+Feb-19,Interest Rate (Cross Currency Swap),USD,JPY,6166,603274,489,80403
+Feb-19,Interest Rate (Cross Currency Swap),USD,KRW,879,24661,7,178
+Feb-19,Interest Rate (Cross Currency Swap),USD,NZD,743,58077,66,9167
+Feb-19,Interest Rate (Cross Currency Swap),USD,SGD,8105,238787,300,10745
+Feb-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5224,113563,141,5453
+Feb-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,30669,3200146,3539,1057841
+Feb-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,14466,599810,1465,64503
+Feb-19,Interest Rate (excluding Cross Currency Swap),INR,INR,27825,1177745,2424,118013
+Feb-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,37510,4271279,3416,533801
+Feb-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,36047,1447599,1208,55584
+Feb-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,9044,160777,240,6329
+Feb-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,8492,636069,636,80101
+Feb-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,67414,2291756,5470,261845
+Feb-19,Interest Rate (excluding Cross Currency Swap),THB,THB,19926,640445,1368,55188
+Feb-19,Interest Rate (excluding Cross Currency Swap),USD,USD,59798,3170433,6018,819296
+Feb-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,28543,1127982,2205,164051
+Mar-19,Credit,EUR,EUR,642,16684,174,7240
+Mar-19,Credit,USD,USD,11044,187177,815,26963
+Mar-19,Credit,Other Currencies,Other Currencies,852,9909,110,1253
+Mar-19,Foreign Exchange,USD,AUD,45224,717222,33791,1332780
+Mar-19,Foreign Exchange,USD,CNY,62464,1456481,27917,734946
+Mar-19,Foreign Exchange,USD,EUR,65488,578550,39855,1357077
+Mar-19,Foreign Exchange,USD,GBP,36480,376922,23856,785200
+Mar-19,Foreign Exchange,USD,HKD,18712,734395,13520,637971
+Mar-19,Foreign Exchange,USD,INR,91459,729731,69516,480425
+Mar-19,Foreign Exchange,USD,JPY,74764,2090727,42223,2459167
+Mar-19,Foreign Exchange,USD,KRW,52244,529315,44231,330442
+Mar-19,Foreign Exchange,USD,SGD,41411,665027,30267,1134274
+Mar-19,Foreign Exchange,USD,TWD,34909,449194,26395,278778
+Mar-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,264746,1544767,205471,1823751
+Mar-19,Interest Rate (Cross Currency Swap),USD,AUD,6415,470594,316,43839
+Mar-19,Interest Rate (Cross Currency Swap),USD,CNY,2736,48404,88,1949
+Mar-19,Interest Rate (Cross Currency Swap),USD,EUR,2116,122078,64,3642
+Mar-19,Interest Rate (Cross Currency Swap),USD,GBP,510,48495,26,2189
+Mar-19,Interest Rate (Cross Currency Swap),USD,HKD,2717,79953,95,5735
+Mar-19,Interest Rate (Cross Currency Swap),USD,INR,3291,37021,172,3135
+Mar-19,Interest Rate (Cross Currency Swap),USD,JPY,6240,602802,325,43836
+Mar-19,Interest Rate (Cross Currency Swap),USD,KRW,901,24980,31,640
+Mar-19,Interest Rate (Cross Currency Swap),USD,NZD,819,68898,143,21220
+Mar-19,Interest Rate (Cross Currency Swap),USD,SGD,8138,234911,171,6128
+Mar-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5247,115173,180,5352
+Mar-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,32402,3791762,3880,1411621
+Mar-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,11944,479260,1839,99688
+Mar-19,Interest Rate (excluding Cross Currency Swap),INR,INR,28170,1191203,2533,146758
+Mar-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,32873,3663425,2586,379364
+Mar-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,34856,1378006,3933,216627
+Mar-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,9140,164581,450,13390
+Mar-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,8650,622265,733,107169
+Mar-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,69956,2368331,8404,343580
+Mar-19,Interest Rate (excluding Cross Currency Swap),THB,THB,20962,662139,2322,80204
+Mar-19,Interest Rate (excluding Cross Currency Swap),USD,USD,61097,3279091,6369,758122
+Mar-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,27627,1025289,2710,143325
+Apr-19,Credit,EUR,EUR,683,14033,89,1328
+Apr-19,Credit,USD,USD,11145,182715,440,8221
+Apr-19,Credit,Other Currencies,Other Currencies,854,9662,63,407
+Apr-19,Foreign Exchange,USD,AUD,46300,706164,34685,1215342
+Apr-19,Foreign Exchange,USD,CNY,62141,1351934,27161,644240
+Apr-19,Foreign Exchange,USD,EUR,65562,614876,38269,1322082
+Apr-19,Foreign Exchange,USD,GBP,33146,389153,21260,867581
+Apr-19,Foreign Exchange,USD,HKD,19719,755698,14029,666624
+Apr-19,Foreign Exchange,USD,INR,87016,669617,62456,422142
+Apr-19,Foreign Exchange,USD,JPY,70313,1846423,40764,2586689
+Apr-19,Foreign Exchange,USD,KRW,60109,569116,49886,349769
+Apr-19,Foreign Exchange,USD,SGD,45140,721800,33266,1299653
+Apr-19,Foreign Exchange,USD,TWD,33583,395130,24048,239119
+Apr-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,257480,1500953,206449,1783844
+Apr-19,Interest Rate (Cross Currency Swap),USD,AUD,6571,484828,274,35748
+Apr-19,Interest Rate (Cross Currency Swap),USD,CNY,2777,48850,129,2403
+Apr-19,Interest Rate (Cross Currency Swap),USD,EUR,2140,123526,72,4970
+Apr-19,Interest Rate (Cross Currency Swap),USD,GBP,511,50142,18,3026
+Apr-19,Interest Rate (Cross Currency Swap),USD,HKD,2746,81678,64,2913
+Apr-19,Interest Rate (Cross Currency Swap),USD,INR,3318,37908,92,1653
+Apr-19,Interest Rate (Cross Currency Swap),USD,JPY,6394,640021,306,63902
+Apr-19,Interest Rate (Cross Currency Swap),USD,KRW,895,24144,20,312
+Apr-19,Interest Rate (Cross Currency Swap),USD,NZD,869,70700,76,4788
+Apr-19,Interest Rate (Cross Currency Swap),USD,SGD,8166,234887,213,8932
+Apr-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5287,114776,143,3598
+Apr-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,35258,4336891,4233,1425011
+Apr-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12441,490639,957,49924
+Apr-19,Interest Rate (excluding Cross Currency Swap),INR,INR,28686,1191698,2358,119021
+Apr-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33244,3791877,3082,491393
+Apr-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,34506,1399193,2767,154571
+Apr-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,6331,114311,331,9431
+Apr-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,9363,755608,1003,204536
+Apr-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,71140,2424348,4998,240942
+Apr-19,Interest Rate (excluding Cross Currency Swap),THB,THB,21635,680273,1543,50509
+Apr-19,Interest Rate (excluding Cross Currency Swap),USD,USD,62632,3464504,5279,574954
+Apr-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,28558,1006480,2420,114578
+May-19,Credit,EUR,EUR,713,15612,81,2681
+May-19,Credit,USD,USD,11115,185746,805,17259
+May-19,Credit,Other Currencies,Other Currencies,809,9450,66,591
+May-19,Foreign Exchange,USD,AUD,47481,748804,37088,1236644
+May-19,Foreign Exchange,USD,CNY,70054,1582752,37872,968836
+May-19,Foreign Exchange,USD,EUR,68181,599866,39546,1523517
+May-19,Foreign Exchange,USD,GBP,32320,339486,23163,774580
+May-19,Foreign Exchange,USD,HKD,21457,785425,14541,630273
+May-19,Foreign Exchange,USD,INR,93665,740863,65096,451814
+May-19,Foreign Exchange,USD,JPY,80831,2064751,48186,2445330
+May-19,Foreign Exchange,USD,KRW,74075,673850,56234,412970
+May-19,Foreign Exchange,USD,SGD,45268,713033,36076,1184387
+May-19,Foreign Exchange,USD,TWD,46777,516188,35938,346674
+May-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,281082,1637019,222360,1815133
+May-19,Interest Rate (Cross Currency Swap),USD,AUD,6787,541281,383,84716
+May-19,Interest Rate (Cross Currency Swap),USD,CNY,2767,48402,125,2469
+May-19,Interest Rate (Cross Currency Swap),USD,EUR,2148,122948,52,2822
+May-19,Interest Rate (Cross Currency Swap),USD,GBP,519,57443,16,8553
+May-19,Interest Rate (Cross Currency Swap),USD,HKD,2756,82053,68,1961
+May-19,Interest Rate (Cross Currency Swap),USD,INR,3346,37696,99,1019
+May-19,Interest Rate (Cross Currency Swap),USD,JPY,6507,633061,341,42163
+May-19,Interest Rate (Cross Currency Swap),USD,KRW,910,24879,24,1005
+May-19,Interest Rate (Cross Currency Swap),USD,NZD,932,79264,99,15158
+May-19,Interest Rate (Cross Currency Swap),USD,SGD,8215,237275,254,11829
+May-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5410,118801,191,6956
+May-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,35465,4444574,3885,1600106
+May-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,13121,502730,1211,54191
+May-19,Interest Rate (excluding Cross Currency Swap),INR,INR,30260,1238275,2385,136940
+May-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33889,4025399,2948,570712
+May-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,33651,1425602,2408,178481
+May-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,6476,122491,415,14894
+May-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,9913,831092,861,184813
+May-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,75193,2562690,5552,260185
+May-19,Interest Rate (excluding Cross Currency Swap),THB,THB,22459,698485,1756,54561
+May-19,Interest Rate (excluding Cross Currency Swap),USD,USD,64232,3328615,5658,559854
+May-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,29577,1009806,2820,144859
+Jun-19,Credit,EUR,EUR,738,16927,126,3445
+Jun-19,Credit,USD,USD,11000,174233,741,11447
+Jun-19,Credit,Other Currencies,Other Currencies,851,9774,117,1189
+Jun-19,Foreign Exchange,USD,AUD,45919,661789,31119,1070161
+Jun-19,Foreign Exchange,USD,CNY,66987,1543710,33447,785214
+Jun-19,Foreign Exchange,USD,EUR,65811,579895,35265,1161100
+Jun-19,Foreign Exchange,USD,GBP,30330,292670,19570,581250
+Jun-19,Foreign Exchange,USD,HKD,22359,810090,14815,699549
+Jun-19,Foreign Exchange,USD,INR,84465,630070,51123,317996
+Jun-19,Foreign Exchange,USD,JPY,81702,2128029,49466,2580735
+Jun-19,Foreign Exchange,USD,KRW,61658,608836,43979,361333
+Jun-19,Foreign Exchange,USD,SGD,42796,705284,30695,1120858
+Jun-19,Foreign Exchange,USD,TWD,45884,504216,31448,283204
+Jun-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,267262,1595936,193656,1800499
+Jun-19,Interest Rate (Cross Currency Swap),USD,AUD,6810,560501,393,83156
+Jun-19,Interest Rate (Cross Currency Swap),USD,CNY,2807,48572,149,3043
+Jun-19,Interest Rate (Cross Currency Swap),USD,EUR,2184,124099,94,5155
+Jun-19,Interest Rate (Cross Currency Swap),USD,GBP,505,54096,6,1046
+Jun-19,Interest Rate (Cross Currency Swap),USD,HKD,2776,82736,44,1205
+Jun-19,Interest Rate (Cross Currency Swap),USD,INR,3345,37223,62,799
+Jun-19,Interest Rate (Cross Currency Swap),USD,JPY,6535,636179,266,34528
+Jun-19,Interest Rate (Cross Currency Swap),USD,KRW,936,25027,30,416
+Jun-19,Interest Rate (Cross Currency Swap),USD,NZD,950,78822,102,9272
+Jun-19,Interest Rate (Cross Currency Swap),USD,SGD,8348,240526,301,12516
+Jun-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5534,119497,226,5287
+Jun-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,33516,4027617,4003,1603905
+Jun-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,13295,490393,901,42919
+Jun-19,Interest Rate (excluding Cross Currency Swap),INR,INR,30684,1204421,1935,86181
+Jun-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,31788,3455245,2213,358308
+Jun-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,34399,1443830,2257,121567
+Jun-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,6610,128689,366,12312
+Jun-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,8765,671538,854,185337
+Jun-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,65854,2213510,6866,330543
+Jun-19,Interest Rate (excluding Cross Currency Swap),THB,THB,22806,709349,2229,84110
+Jun-19,Interest Rate (excluding Cross Currency Swap),USD,USD,63667,2977044,6127,636065
+Jun-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,28914,1005434,2510,138503
+Jul-19,Credit,EUR,EUR,803,17879,148,2616
+Jul-19,Credit,USD,USD,11428,176797,520,6346
+Jul-19,Credit,Other Currencies,Other Currencies,834,10081,176,1309
+Jul-19,Foreign Exchange,USD,AUD,48301,704161,37975,1315161
+Jul-19,Foreign Exchange,USD,CNY,65919,1436608,37706,788975
+Jul-19,Foreign Exchange,USD,EUR,69000,658644,47295,1591239
+Jul-19,Foreign Exchange,USD,GBP,31459,309407,29017,763652
+Jul-19,Foreign Exchange,USD,HKD,23481,792917,18741,750139
+Jul-19,Foreign Exchange,USD,INR,80607,626651,55941,361241
+Jul-19,Foreign Exchange,USD,JPY,81886,2210500,50205,3534193
+Jul-19,Foreign Exchange,USD,KRW,54018,596481,41626,360289
+Jul-19,Foreign Exchange,USD,SGD,45190,733425,40169,1401539
+Jul-19,Foreign Exchange,USD,TWD,36996,424943,26214,248022
+Jul-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,277704,1647038,235351,2109692
+Jul-19,Interest Rate (Cross Currency Swap),USD,AUD,6881,578000,359,60374
+Jul-19,Interest Rate (Cross Currency Swap),USD,CNY,2838,50041,114,3036
+Jul-19,Interest Rate (Cross Currency Swap),USD,EUR,2195,121000,95,5300
+Jul-19,Interest Rate (Cross Currency Swap),USD,GBP,516,56398,49,13769
+Jul-19,Interest Rate (Cross Currency Swap),USD,HKD,2794,83353,56,1845
+Jul-19,Interest Rate (Cross Currency Swap),USD,INR,3353,37138,112,1134
+Jul-19,Interest Rate (Cross Currency Swap),USD,JPY,6614,641000,293,39695
+Jul-19,Interest Rate (Cross Currency Swap),USD,KRW,961,25766,29,769
+Jul-19,Interest Rate (Cross Currency Swap),USD,NZD,966,87809,108,25115
+Jul-19,Interest Rate (Cross Currency Swap),USD,SGD,8485,246000,290,12339
+Jul-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5553,119548,190,5669
+Jul-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,36331,4500000,3903,1137256
+Jul-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,13234,478000,911,44327
+Jul-19,Interest Rate (excluding Cross Currency Swap),INR,INR,28591,1160000,1878,97431
+Jul-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,31946,3400000,1039,113114
+Jul-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,35267,1490000,2565,133727
+Jul-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,6872,138000,452,15798
+Jul-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,8175,670000,1141,116918
+Jul-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,68556,2270000,6613,331349
+Jul-19,Interest Rate (excluding Cross Currency Swap),THB,THB,22920,699000,1318,36498
+Jul-19,Interest Rate (excluding Cross Currency Swap),USD,USD,64693,3140000,6481,784626
+Jul-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,29276,1011561,2207,124789
+Aug-19,Credit,EUR,EUR,826,17127,95,2793
+Aug-19,Credit,USD,USD,11808,184861,799,14429
+Aug-19,Credit,Other Currencies,Other Currencies,907,10516,172,1107
+Aug-19,Foreign Exchange,USD,AUD,46448,747554,34720,1250302
+Aug-19,Foreign Exchange,USD,CNY,82924,1717015,60552,1322359
+Aug-19,Foreign Exchange,USD,EUR,70674,628955,49428,1356150
+Aug-19,Foreign Exchange,USD,GBP,34054,297368,27058,561758
+Aug-19,Foreign Exchange,USD,HKD,26282,843252,21465,786476
+Aug-19,Foreign Exchange,USD,INR,93748,694165,69193,415087
+Aug-19,Foreign Exchange,USD,JPY,86713,2267936,58634,2826439
+Aug-19,Foreign Exchange,USD,KRW,65062,678052,48806,397615
+Aug-19,Foreign Exchange,USD,SGD,47321,717227,36833,1040055
+Aug-19,Foreign Exchange,USD,TWD,44250,500156,33232,319066
+Aug-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,304615,1772649,262277,2106466
+Aug-19,Interest Rate (Cross Currency Swap),USD,AUD,7073,621000,383,74054
+Aug-19,Interest Rate (Cross Currency Swap),USD,CNY,2849,50301,112,2746
+Aug-19,Interest Rate (Cross Currency Swap),USD,EUR,2274,132000,134,10644
+Aug-19,Interest Rate (Cross Currency Swap),USD,GBP,520,57895,13,2306
+Aug-19,Interest Rate (Cross Currency Swap),USD,HKD,2801,82210,269,8041
+Aug-19,Interest Rate (Cross Currency Swap),USD,INR,3378,37997,87,1427
+Aug-19,Interest Rate (Cross Currency Swap),USD,JPY,6786,661000,390,50278
+Aug-19,Interest Rate (Cross Currency Swap),USD,KRW,1015,27831,69,2390
+Aug-19,Interest Rate (Cross Currency Swap),USD,NZD,1001,93179,63,7149
+Aug-19,Interest Rate (Cross Currency Swap),USD,SGD,8605,248000,289,11734
+Aug-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5550,116906,176,2802
+Aug-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,33375,3490000,5279,1193088
+Aug-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,13784,497000,1136,53664
+Aug-19,Interest Rate (excluding Cross Currency Swap),INR,INR,29777,1200000,1989,102424
+Aug-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,30960,3170000,1356,168666
+Aug-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,36602,1510000,5022,176245
+Aug-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,7033,144000,418,13721
+Aug-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,8600,652000,1096,193098
+Aug-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,71149,2320000,6140,229255
+Aug-19,Interest Rate (excluding Cross Currency Swap),THB,THB,16570,534000,2019,58838
+Aug-19,Interest Rate (excluding Cross Currency Swap),USD,USD,66532,3240000,6407,526230
+Aug-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,30251,1028503,2630,122553
+Sep-19,Credit,EUR,EUR,757,18326,107,3227
+Sep-19,Credit,USD,USD,11741,192036,665,22699
+Sep-19,Credit,Other Currencies,Other Currencies,882,10369,184,1293
+Sep-19,Foreign Exchange,USD,AUD,45070,777764,34214,1516473
+Sep-19,Foreign Exchange,USD,CNY,75780,1605609,43747,894743
+Sep-19,Foreign Exchange,USD,EUR,69265,751091,49576,1502541
+Sep-19,Foreign Exchange,USD,GBP,37507,308198,31187,700451
+Sep-19,Foreign Exchange,USD,HKD,25050,795511,17967,694437
+Sep-19,Foreign Exchange,USD,INR,84557,629211,57983,395136
+Sep-19,Foreign Exchange,USD,JPY,81281,2270137,47749,2636004
+Sep-19,Foreign Exchange,USD,KRW,55379,580233,41513,317946
+Sep-19,Foreign Exchange,USD,SGD,45317,733413,38899,1366992
+Sep-19,Foreign Exchange,USD,TWD,40609,492884,30956,324026
+Sep-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,295279,1715511,248867,2068848
+Sep-19,Interest Rate (Cross Currency Swap),USD,AUD,7229,661000,366,105546
+Sep-19,Interest Rate (Cross Currency Swap),USD,CNY,2825,49524,71,1346
+Sep-19,Interest Rate (Cross Currency Swap),USD,EUR,2357,135000,133,8524
+Sep-19,Interest Rate (Cross Currency Swap),USD,GBP,505,53595,6,1971
+Sep-19,Interest Rate (Cross Currency Swap),USD,HKD,2854,82744,111,4329
+Sep-19,Interest Rate (Cross Currency Swap),USD,INR,3382,37904,118,1987
+Sep-19,Interest Rate (Cross Currency Swap),USD,JPY,7058,677000,420,53027
+Sep-19,Interest Rate (Cross Currency Swap),USD,KRW,1023,28271,30,1170
+Sep-19,Interest Rate (Cross Currency Swap),USD,NZD,1093,102000,131,14926
+Sep-19,Interest Rate (Cross Currency Swap),USD,SGD,8649,251000,270,13626
+Sep-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5571,117236,167,4372
+Sep-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,34876,3660000,4381,1284927
+Sep-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,13374,501000,1922,81986
+Sep-19,Interest Rate (excluding Cross Currency Swap),INR,INR,30481,1190000,2591,113312
+Sep-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,30589,2940000,1302,131182
+Sep-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,40031,1720000,2976,196969
+Sep-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,7116,148000,464,12910
+Sep-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,9081,683000,1547,207014
+Sep-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,73576,2400000,5960,272613
+Sep-19,Interest Rate (excluding Cross Currency Swap),THB,THB,16966,533000,1936,61836
+Sep-19,Interest Rate (excluding Cross Currency Swap),USD,USD,66516,3070000,6086,734129
+Sep-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,35359,1143708,2861,102614
+Oct-19,Credit,EUR,EUR,739,17873,134,2434
+Oct-19,Credit,USD,USD,11448,187112,860,16206
+Oct-19,Credit,Other Currencies,Other Currencies,1005,11405,199,1556
+Oct-19,Foreign Exchange,USD,AUD,47366,727421,35992,1223722
+Oct-19,Foreign Exchange,USD,CNY,71294,1451795,36723,685334
+Oct-19,Foreign Exchange,USD,EUR,72592,784910,49429,1645146
+Oct-19,Foreign Exchange,USD,GBP,40070,315733,33856,679202
+Oct-19,Foreign Exchange,USD,HKD,23633,709837,16505,572715
+Oct-19,Foreign Exchange,USD,INR,74201,585537,50130,330454
+Oct-19,Foreign Exchange,USD,JPY,79016,2132807,47287,2681258
+Oct-19,Foreign Exchange,USD,KRW,52862,560855,40245,273824
+Oct-19,Foreign Exchange,USD,SGD,47827,746599,40883,1388686
+Oct-19,Foreign Exchange,USD,TWD,40441,488446,30782,290121
+Oct-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,307397,1827270,256446,2215765
+Oct-19,Interest Rate (Cross Currency Swap),USD,AUD,7359,715882,357,91043
+Oct-19,Interest Rate (Cross Currency Swap),USD,CNY,2832,49316,117,1858
+Oct-19,Interest Rate (Cross Currency Swap),USD,EUR,2424,136944,127,9804
+Oct-19,Interest Rate (Cross Currency Swap),USD,GBP,513,54431,15,1897
+Oct-19,Interest Rate (Cross Currency Swap),USD,HKD,2910,83183,71,2631
+Oct-19,Interest Rate (Cross Currency Swap),USD,INR,3395,37568,103,1157
+Oct-19,Interest Rate (Cross Currency Swap),USD,JPY,6944,673780,393,67809
+Oct-19,Interest Rate (Cross Currency Swap),USD,KRW,1054,29858,35,1885
+Oct-19,Interest Rate (Cross Currency Swap),USD,NZD,1137,104674,90,7758
+Oct-19,Interest Rate (Cross Currency Swap),USD,SGD,8774,257343,376,17765
+Oct-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5596,116186,163,4149
+Oct-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,36839,3802850,3819,1112438
+Oct-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12347,452306,1418,56504
+Oct-19,Interest Rate (excluding Cross Currency Swap),INR,INR,29566,1116711,2133,93614
+Oct-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,31295,2816661,1566,129064
+Oct-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,34620,1487828,4508,270229
+Oct-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,7328,155766,601,17366
+Oct-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,10153,820742,1300,173646
+Oct-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,75398,2482795,7474,331822
+Oct-19,Interest Rate (excluding Cross Currency Swap),THB,THB,20170,597311,2664,68029
+Oct-19,Interest Rate (excluding Cross Currency Swap),USD,USD,68821,3087908,6491,572666
+Oct-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,31651,989642,3557,109364
+Nov-19,Credit,EUR,EUR,828,20571,151,1775
+Nov-19,Credit,USD,USD,12355,192063,951,12948
+Nov-19,Credit,Other Currencies,Other Currencies,977,11162,198,1091
+Nov-19,Foreign Exchange,USD,AUD,48190,858809,30527,1165537
+Nov-19,Foreign Exchange,USD,CNY,74099,1382028,42309,796036
+Nov-19,Foreign Exchange,USD,EUR,77730,829787,46117,1368169
+Nov-19,Foreign Exchange,USD,GBP,40324,381665,25265,749228
+Nov-19,Foreign Exchange,USD,HKD,25005,739607,18178,685936
+Nov-19,Foreign Exchange,USD,INR,79058,678413,54143,425852
+Nov-19,Foreign Exchange,USD,JPY,81238,2082435,44144,2079939
+Nov-19,Foreign Exchange,USD,KRW,62379,626541,42069,324095
+Nov-19,Foreign Exchange,USD,SGD,48959,795478,35505,1257018
+Nov-19,Foreign Exchange,USD,TWD,43237,494214,28092,270212
+Nov-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,319607,1999090,226494,2050808
+Nov-19,Interest Rate (Cross Currency Swap),USD,AUD,7425,723965,255,48711
+Nov-19,Interest Rate (Cross Currency Swap),USD,CNY,2889,50172,147,3579
+Nov-19,Interest Rate (Cross Currency Swap),USD,EUR,2482,137153,97,4900
+Nov-19,Interest Rate (Cross Currency Swap),USD,GBP,503,51347,10,1718
+Nov-19,Interest Rate (Cross Currency Swap),USD,HKD,2966,85608,95,5266
+Nov-19,Interest Rate (Cross Currency Swap),USD,INR,3403,37388,77,765
+Nov-19,Interest Rate (Cross Currency Swap),USD,JPY,6931,663632,220,29032
+Nov-19,Interest Rate (Cross Currency Swap),USD,KRW,1067,30224,15,488
+Nov-19,Interest Rate (Cross Currency Swap),USD,NZD,1159,104950,47,4416
+Nov-19,Interest Rate (Cross Currency Swap),USD,SGD,8872,262804,266,13066
+Nov-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5601,115513,164,3759
+Nov-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,34332,3469660,4709,1108498
+Nov-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12846,479659,1294,67080
+Nov-19,Interest Rate (excluding Cross Currency Swap),INR,INR,30412,1123652,2401,82239
+Nov-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,32125,2870651,2440,223578
+Nov-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,37369,1560469,5664,273686
+Nov-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,7459,159221,588,15205
+Nov-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,11267,818165,1885,188340
+Nov-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,78370,2598594,6866,335536
+Nov-19,Interest Rate (excluding Cross Currency Swap),THB,THB,19142,567128,3085,72766
+Nov-19,Interest Rate (excluding Cross Currency Swap),USD,USD,68232,3145030,5639,776383
+Nov-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,31213,967085,4279,150083
+Dec-19,Credit,EUR,EUR,905,21540,117,1333
+Dec-19,Credit,USD,USD,12198,195693,707,10025
+Dec-19,Credit,Other Currencies,Other Currencies,1798,16843,196,3222
+Dec-19,Foreign Exchange,USD,AUD,43845,799882,31521,1115251
+Dec-19,Foreign Exchange,USD,CNY,63990,1217550,42479,741851
+Dec-19,Foreign Exchange,USD,EUR,76332,725430,49898,1399444
+Dec-19,Foreign Exchange,USD,GBP,38071,302465,32329,728800
+Dec-19,Foreign Exchange,USD,HKD,22916,665750,20737,653640
+Dec-19,Foreign Exchange,USD,INR,70293,537283,49239,345720
+Dec-19,Foreign Exchange,USD,JPY,70041,1615293,41439,2172230
+Dec-19,Foreign Exchange,USD,KRW,50020,517307,38444,365746
+Dec-19,Foreign Exchange,USD,SGD,43016,726327,35113,1449845
+Dec-19,Foreign Exchange,USD,TWD,34679,421828,24015,227819
+Dec-19,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,274163,1628559,216473,2039036
+Dec-19,Interest Rate (Cross Currency Swap),USD,AUD,7351,716677,164,42688
+Dec-19,Interest Rate (Cross Currency Swap),USD,CNY,2856,49205,28,611
+Dec-19,Interest Rate (Cross Currency Swap),USD,EUR,2470,131088,48,2559
+Dec-19,Interest Rate (Cross Currency Swap),USD,GBP,475,44855,3,867
+Dec-19,Interest Rate (Cross Currency Swap),USD,HKD,2952,84811,31,914
+Dec-19,Interest Rate (Cross Currency Swap),USD,INR,3524,38705,158,1723
+Dec-19,Interest Rate (Cross Currency Swap),USD,JPY,6482,568487,200,18883
+Dec-19,Interest Rate (Cross Currency Swap),USD,KRW,1065,30068,17,625
+Dec-19,Interest Rate (Cross Currency Swap),USD,NZD,1191,108484,145,19814
+Dec-19,Interest Rate (Cross Currency Swap),USD,SGD,8872,261565,193,8028
+Dec-19,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5610,114948,157,4208
+Dec-19,Interest Rate (excluding Cross Currency Swap),AUD,AUD,33386,2944971,4917,1288956
+Dec-19,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12381,450626,726,31785
+Dec-19,Interest Rate (excluding Cross Currency Swap),INR,INR,28427,1025645,3132,168845
+Dec-19,Interest Rate (excluding Cross Currency Swap),JPY,JPY,31615,2704304,1923,154214
+Dec-19,Interest Rate (excluding Cross Currency Swap),KRW,KRW,35205,1450077,2943,130682
+Dec-19,Interest Rate (excluding Cross Currency Swap),MYR,MYR,7750,167024,645,18872
+Dec-19,Interest Rate (excluding Cross Currency Swap),NZD,NZD,10108,786666,2044,204180
+Dec-19,Interest Rate (excluding Cross Currency Swap),SGD,SGD,55829,1817316,5478,243906
+Dec-19,Interest Rate (excluding Cross Currency Swap),THB,THB,18638,537687,1552,43821
+Dec-19,Interest Rate (excluding Cross Currency Swap),USD,USD,66954,2705911,4482,294581
+Dec-19,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,30711,931222,2736,137610
+Jan-20,Credit,EUR,EUR,1035,26861,178,6503
+Jan-20,Credit,USD,USD,13196,207782,1769,26800
+Jan-20,Credit,Other Currencies,Other Currencies,1779,17067,323,3977
+Jan-20,Foreign Exchange,USD,AUD,47103,880541,36184,1325566
+Jan-20,Foreign Exchange,USD,CNY,76430,1378859,47113,900120
+Jan-20,Foreign Exchange,USD,EUR,83613,762924,54495,1562267
+Jan-20,Foreign Exchange,USD,GBP,39834,317820,31885,832987
+Jan-20,Foreign Exchange,USD,HKD,22296,666623,17473,782108
+Jan-20,Foreign Exchange,USD,INR,74214,609032,56000,383091
+Jan-20,Foreign Exchange,USD,JPY,77822,1746441,51946,2532150
+Jan-20,Foreign Exchange,USD,KRW,64057,575173,53547,362012
+Jan-20,Foreign Exchange,USD,SGD,48178,840283,42145,1457012
+Jan-20,Foreign Exchange,USD,TWD,42362,474869,32228,307205
+Jan-20,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,326895,2004150,269733,2413489
+Jan-20,Interest Rate (Cross Currency Swap),USD,AUD,7498,763953,340,85487
+Jan-20,Interest Rate (Cross Currency Swap),USD,CNY,2945,51172,151,3256
+Jan-20,Interest Rate (Cross Currency Swap),USD,EUR,2484,131708,66,3980
+Jan-20,Interest Rate (Cross Currency Swap),USD,GBP,482,46099,10,1190
+Jan-20,Interest Rate (Cross Currency Swap),USD,HKD,2916,83566,27,1150
+Jan-20,Interest Rate (Cross Currency Swap),USD,INR,3561,39545,140,1841
+Jan-20,Interest Rate (Cross Currency Swap),USD,JPY,6433,564681,273,31393
+Jan-20,Interest Rate (Cross Currency Swap),USD,KRW,1084,30796,23,876
+Jan-20,Interest Rate (Cross Currency Swap),USD,NZD,1250,114495,122,15031
+Jan-20,Interest Rate (Cross Currency Swap),USD,SGD,8661,258445,147,7768
+Jan-20,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5714,115478,295,5844
+Jan-20,Interest Rate (excluding Cross Currency Swap),AUD,AUD,35950,4490741,4919,2194079
+Jan-20,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12633,456889,1650,71580
+Jan-20,Interest Rate (excluding Cross Currency Swap),INR,INR,32597,1206905,5547,254486
+Jan-20,Interest Rate (excluding Cross Currency Swap),JPY,JPY,32145,2679761,1952,148629
+Jan-20,Interest Rate (excluding Cross Currency Swap),KRW,KRW,38905,1644556,6218,324122
+Jan-20,Interest Rate (excluding Cross Currency Swap),MYR,MYR,6975,156342,842,24548
+Jan-20,Interest Rate (excluding Cross Currency Swap),NZD,NZD,11227,1015580,2293,347481
+Jan-20,Interest Rate (excluding Cross Currency Swap),SGD,SGD,60447,1991604,7588,353121
+Jan-20,Interest Rate (excluding Cross Currency Swap),THB,THB,19704,575332,2902,99187
+Jan-20,Interest Rate (excluding Cross Currency Swap),USD,USD,69747,2991742,7350,870192
+Jan-20,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,33541,1088158,4818,271267
+Feb-20,Credit,EUR,EUR,879,23026,200,4990
+Feb-20,Credit,USD,USD,14636,237884,2766,43539
+Feb-20,Credit,Other Currencies,Other Currencies,1732,17859,409,3354
+Feb-20,Foreign Exchange,USD,AUD,42111,817854,34211,1027891
+Feb-20,Foreign Exchange,USD,CNY,74461,1269633,44510,782131
+Feb-20,Foreign Exchange,USD,EUR,84081,675679,54976,1446612
+Feb-20,Foreign Exchange,USD,GBP,38437,281823,32671,722182
+Feb-20,Foreign Exchange,USD,HKD,21373,641614,17989,821033
+Feb-20,Foreign Exchange,USD,INR,80161,676632,63303,416708
+Feb-20,Foreign Exchange,USD,JPY,75724,1768192,55273,2503387
+Feb-20,Foreign Exchange,USD,KRW,73555,638958,61380,395510
+Feb-20,Foreign Exchange,USD,SGD,52428,829182,47058,1389739
+Feb-20,Foreign Exchange,USD,TWD,48975,505230,36283,321727
+Feb-20,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,336671,2134449,273570,2216435
+Feb-20,Interest Rate (Cross Currency Swap),USD,AUD,7626,770118,356,70292
+Feb-20,Interest Rate (Cross Currency Swap),USD,CNY,2974,51805,145,2573
+Feb-20,Interest Rate (Cross Currency Swap),USD,EUR,2540,137631,101,8274
+Feb-20,Interest Rate (Cross Currency Swap),USD,GBP,478,44989,5,297
+Feb-20,Interest Rate (Cross Currency Swap),USD,HKD,2908,83085,42,1505
+Feb-20,Interest Rate (Cross Currency Swap),USD,INR,3547,39019,120,1561
+Feb-20,Interest Rate (Cross Currency Swap),USD,JPY,6388,558672,320,34356
+Feb-20,Interest Rate (Cross Currency Swap),USD,KRW,1098,31010,29,929
+Feb-20,Interest Rate (Cross Currency Swap),USD,NZD,1335,122607,123,13467
+Feb-20,Interest Rate (Cross Currency Swap),USD,SGD,8583,257644,223,13534
+Feb-20,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5727,116679,243,4761
+Feb-20,Interest Rate (excluding Cross Currency Swap),AUD,AUD,36884,4820141,4781,2395212
+Feb-20,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12984,466894,1215,55695
+Feb-20,Interest Rate (excluding Cross Currency Swap),INR,INR,24524,908265,4606,156187
+Feb-20,Interest Rate (excluding Cross Currency Swap),JPY,JPY,32715,2561536,1856,112209
+Feb-20,Interest Rate (excluding Cross Currency Swap),KRW,KRW,40481,1703591,7335,339542
+Feb-20,Interest Rate (excluding Cross Currency Swap),MYR,MYR,7398,162129,814,20309
+Feb-20,Interest Rate (excluding Cross Currency Swap),NZD,NZD,12316,1268950,2024,416719
+Feb-20,Interest Rate (excluding Cross Currency Swap),SGD,SGD,67075,2175776,10937,369224
+Feb-20,Interest Rate (excluding Cross Currency Swap),THB,THB,20842,599025,2675,70338
+Feb-20,Interest Rate (excluding Cross Currency Swap),USD,USD,71540,3349084,7291,1228128
+Feb-20,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,36390,1223124,6174,369482
+Mar-20,Credit,EUR,EUR,941,23639,354,13304
+Mar-20,Credit,USD,USD,16133,254649,4233,85873
+Mar-20,Credit,Other Currencies,Other Currencies,1638,17284,332,2866
+Mar-20,Foreign Exchange,USD,AUD,47969,862723,49490,1099083
+Mar-20,Foreign Exchange,USD,CNY,76108,1284636,56614,916275
+Mar-20,Foreign Exchange,USD,EUR,90348,853396,67489,1803922
+Mar-20,Foreign Exchange,USD,GBP,41796,303803,39088,651002
+Mar-20,Foreign Exchange,USD,HKD,22230,678978,20629,864517
+Mar-20,Foreign Exchange,USD,INR,104980,791122,85763,594191
+Mar-20,Foreign Exchange,USD,JPY,84043,2015758,73931,3043970
+Mar-20,Foreign Exchange,USD,KRW,83390,648435,73700,445207
+Mar-20,Foreign Exchange,USD,SGD,56902,961008,52573,1508501
+Mar-20,Foreign Exchange,USD,TWD,48746,523844,38562,347834
+Mar-20,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,353136,2086394,318482,2170461
+Mar-20,Interest Rate (Cross Currency Swap),USD,AUD,7635,743654,363,44783
+Mar-20,Interest Rate (Cross Currency Swap),USD,CNY,2996,51921,130,3220
+Mar-20,Interest Rate (Cross Currency Swap),USD,EUR,2683,148429,205,16610
+Mar-20,Interest Rate (Cross Currency Swap),USD,GBP,469,41726,20,584
+Mar-20,Interest Rate (Cross Currency Swap),USD,HKD,2997,87189,123,5998
+Mar-20,Interest Rate (Cross Currency Swap),USD,INR,3483,37999,112,1906
+Mar-20,Interest Rate (Cross Currency Swap),USD,JPY,6700,595106,667,96616
+Mar-20,Interest Rate (Cross Currency Swap),USD,KRW,1180,32675,369,12780
+Mar-20,Interest Rate (Cross Currency Swap),USD,NZD,1330,113755,129,9842
+Mar-20,Interest Rate (Cross Currency Swap),USD,SGD,8656,260262,362,15649
+Mar-20,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5737,117202,220,5562
+Mar-20,Interest Rate (excluding Cross Currency Swap),AUD,AUD,37975,4038789,6873,1400364
+Mar-20,Interest Rate (excluding Cross Currency Swap),HKD,HKD,11857,423717,2807,105325
+Mar-20,Interest Rate (excluding Cross Currency Swap),INR,INR,26135,898781,5047,137913
+Mar-20,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33448,2405576,2960,190539
+Mar-20,Interest Rate (excluding Cross Currency Swap),KRW,KRW,42154,1752363,6386,283571
+Mar-20,Interest Rate (excluding Cross Currency Swap),MYR,MYR,7843,172454,813,19994
+Mar-20,Interest Rate (excluding Cross Currency Swap),NZD,NZD,13342,1245403,2788,370720
+Mar-20,Interest Rate (excluding Cross Currency Swap),SGD,SGD,70569,2233951,12142,377282
+Mar-20,Interest Rate (excluding Cross Currency Swap),THB,THB,22296,580563,3293,85336
+Mar-20,Interest Rate (excluding Cross Currency Swap),USD,USD,77554,3663344,13202,1345486
+Mar-20,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,39334,1190329,8849,352021
+Apr-20,Credit,EUR,EUR,969,28787,96,11081
+Apr-20,Credit,USD,USD,17397,253738,3202,61649
+Apr-20,Credit,Other Currencies,Other Currencies,1581,18456,306,4082
+Apr-20,Foreign Exchange,USD,AUD,49186,722333,36980,792892
+Apr-20,Foreign Exchange,USD,CNY,71053,1128845,35117,669545
+Apr-20,Foreign Exchange,USD,EUR,81417,816655,47199,1635073
+Apr-20,Foreign Exchange,USD,GBP,38381,301424,26912,687598
+Apr-20,Foreign Exchange,USD,HKD,20580,596147,15909,667701
+Apr-20,Foreign Exchange,USD,INR,78082,687295,49524,344454
+Apr-20,Foreign Exchange,USD,JPY,76263,1891087,47150,2439882
+Apr-20,Foreign Exchange,USD,KRW,54741,548908,41629,297680
+Apr-20,Foreign Exchange,USD,SGD,55899,957530,43863,1460833
+Apr-20,Foreign Exchange,USD,TWD,40356,484419,25533,235488
+Apr-20,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,320963,1939342,237563,1670543
+Apr-20,Interest Rate (Cross Currency Swap),USD,AUD,7670,698789,257,21957
+Apr-20,Interest Rate (Cross Currency Swap),USD,CNY,2955,50815,73,913
+Apr-20,Interest Rate (Cross Currency Swap),USD,EUR,2714,149986,87,4127
+Apr-20,Interest Rate (Cross Currency Swap),USD,GBP,467,40281,9,756
+Apr-20,Interest Rate (Cross Currency Swap),USD,HKD,3001,85999,41,1215
+Apr-20,Interest Rate (Cross Currency Swap),USD,INR,3455,38922,31,401
+Apr-20,Interest Rate (Cross Currency Swap),USD,JPY,6827,602678,328,35894
+Apr-20,Interest Rate (Cross Currency Swap),USD,KRW,1199,33361,24,734
+Apr-20,Interest Rate (Cross Currency Swap),USD,NZD,1362,112992,144,7180
+Apr-20,Interest Rate (Cross Currency Swap),USD,SGD,8895,272835,461,22547
+Apr-20,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5685,117984,110,3747
+Apr-20,Interest Rate (excluding Cross Currency Swap),AUD,AUD,37965,3640618,5016,378282
+Apr-20,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12327,431681,1121,44794
+Apr-20,Interest Rate (excluding Cross Currency Swap),INR,INR,26177,893919,2313,106693
+Apr-20,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33848,2367376,1741,139532
+Apr-20,Interest Rate (excluding Cross Currency Swap),KRW,KRW,39355,1628042,2937,159026
+Apr-20,Interest Rate (excluding Cross Currency Swap),MYR,MYR,8261,184950,684,19890
+Apr-20,Interest Rate (excluding Cross Currency Swap),NZD,NZD,13896,1265257,1607,162375
+Apr-20,Interest Rate (excluding Cross Currency Swap),SGD,SGD,75101,2398677,8534,349186
+Apr-20,Interest Rate (excluding Cross Currency Swap),THB,THB,23598,602673,2686,67139
+Apr-20,Interest Rate (excluding Cross Currency Swap),USD,USD,78916,3208254,8020,578836
+Apr-20,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,40613,1206848,4029,171642
+May-20,Credit,EUR,EUR,1207,42629,128,1773
+May-20,Credit,USD,USD,18899,254920,3231,45837
+May-20,Credit,Other Currencies,Other Currencies,1686,19114,316,2874
+May-20,Foreign Exchange,USD,AUD,47030,647053,36659,814889
+May-20,Foreign Exchange,USD,CNY,75529,1168056,43912,775711
+May-20,Foreign Exchange,USD,EUR,76056,713409,48591,1559868
+May-20,Foreign Exchange,USD,GBP,35038,218755,25469,571134
+May-20,Foreign Exchange,USD,HKD,22320,615121,18270,712915
+May-20,Foreign Exchange,USD,INR,66456,608287,46472,288477
+May-20,Foreign Exchange,USD,JPY,69915,1673264,40564,1904885
+May-20,Foreign Exchange,USD,KRW,51145,542648,33196,233274
+May-20,Foreign Exchange,USD,SGD,50799,822336,35689,1188728
+May-20,Foreign Exchange,USD,TWD,44931,477505,32266,259350
+May-20,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,298425,1789298,220963,1581569
+May-20,Interest Rate (Cross Currency Swap),USD,AUD,7404,616966,167,15478
+May-20,Interest Rate (Cross Currency Swap),USD,CNY,2909,48763,60,935
+May-20,Interest Rate (Cross Currency Swap),USD,EUR,2755,148240,63,2879
+May-20,Interest Rate (Cross Currency Swap),USD,GBP,465,36952,11,598
+May-20,Interest Rate (Cross Currency Swap),USD,HKD,3029,85606,77,2575
+May-20,Interest Rate (Cross Currency Swap),USD,INR,3505,38481,129,2791
+May-20,Interest Rate (Cross Currency Swap),USD,JPY,6899,602216,258,25722
+May-20,Interest Rate (Cross Currency Swap),USD,KRW,1162,32704,17,477
+May-20,Interest Rate (Cross Currency Swap),USD,NZD,1305,110657,106,11443
+May-20,Interest Rate (Cross Currency Swap),USD,SGD,8911,270065,338,11229
+May-20,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5678,117624,173,3441
+May-20,Interest Rate (excluding Cross Currency Swap),AUD,AUD,38647,3423113,4014,331029
+May-20,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12644,428348,1280,42351
+May-20,Interest Rate (excluding Cross Currency Swap),INR,INR,26373,880485,2464,77603
+May-20,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33870,2330249,1181,108720
+May-20,Interest Rate (excluding Cross Currency Swap),KRW,KRW,39470,1612728,2749,144423
+May-20,Interest Rate (excluding Cross Currency Swap),MYR,MYR,8537,189518,770,19949
+May-20,Interest Rate (excluding Cross Currency Swap),NZD,NZD,14177,1218276,1796,166907
+May-20,Interest Rate (excluding Cross Currency Swap),SGD,SGD,75585,2370201,7431,253763
+May-20,Interest Rate (excluding Cross Currency Swap),THB,THB,24597,628230,2343,61408
+May-20,Interest Rate (excluding Cross Currency Swap),USD,USD,79917,3138103,6482,420325
+May-20,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,41044,1275477,5429,248875
+Jun-20,Credit,EUR,EUR,1336,48048,198,2726
+Jun-20,Credit,USD,USD,20034,263335,3073,54047
+Jun-20,Credit,Other Currencies,Other Currencies,1783,20471,377,4184
+Jun-20,Foreign Exchange,USD,AUD,46961,622466,40885,1041093
+Jun-20,Foreign Exchange,USD,CNY,71364,1196292,50629,804805
+Jun-20,Foreign Exchange,USD,EUR,79501,753760,58624,1696180
+Jun-20,Foreign Exchange,USD,GBP,43026,282743,36840,706057
+Jun-20,Foreign Exchange,USD,HKD,21987,630812,19564,797710
+Jun-20,Foreign Exchange,USD,INR,77059,598184,54713,333701
+Jun-20,Foreign Exchange,USD,JPY,72370,1842370,50362,2551790
+Jun-20,Foreign Exchange,USD,KRW,63431,534344,52499,334637
+Jun-20,Foreign Exchange,USD,SGD,50178,911305,44183,1514596
+Jun-20,Foreign Exchange,USD,TWD,48391,478096,35692,256040
+Jun-20,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,302358,1900990,258631,2103526
+Jun-20,Interest Rate (Cross Currency Swap),USD,AUD,7291,575842,111,6956
+Jun-20,Interest Rate (Cross Currency Swap),USD,CNY,2914,48237,87,1696
+Jun-20,Interest Rate (Cross Currency Swap),USD,EUR,2776,146701,126,7245
+Jun-20,Interest Rate (Cross Currency Swap),USD,GBP,472,34367,19,534
+Jun-20,Interest Rate (Cross Currency Swap),USD,HKD,3028,85504,23,940
+Jun-20,Interest Rate (Cross Currency Swap),USD,INR,3536,37918,131,1388
+Jun-20,Interest Rate (Cross Currency Swap),USD,JPY,6956,561133,379,38337
+Jun-20,Interest Rate (Cross Currency Swap),USD,KRW,1164,32710,17,697
+Jun-20,Interest Rate (Cross Currency Swap),USD,NZD,1311,102138,93,6556
+Jun-20,Interest Rate (Cross Currency Swap),USD,SGD,8938,271554,280,12860
+Jun-20,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5739,118679,189,4328
+Jun-20,Interest Rate (excluding Cross Currency Swap),AUD,AUD,37264,2870814,6926,644650
+Jun-20,Interest Rate (excluding Cross Currency Swap),HKD,HKD,12692,413374,2872,301942
+Jun-20,Interest Rate (excluding Cross Currency Swap),INR,INR,26004,851027,2979,118116
+Jun-20,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33571,2247564,2618,184495
+Jun-20,Interest Rate (excluding Cross Currency Swap),KRW,KRW,40027,1648858,3845,220889
+Jun-20,Interest Rate (excluding Cross Currency Swap),MYR,MYR,9081,217425,1650,63200
+Jun-20,Interest Rate (excluding Cross Currency Swap),NZD,NZD,14493,1002522,2154,203831
+Jun-20,Interest Rate (excluding Cross Currency Swap),SGD,SGD,77402,2380875,9442,314774
+Jun-20,Interest Rate (excluding Cross Currency Swap),THB,THB,24232,601657,5071,136278
+Jun-20,Interest Rate (excluding Cross Currency Swap),USD,USD,79199,3162413,9332,828978
+Jun-20,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,40917,1283974,7785,349903
+Jul-20,Credit,EUR,EUR,1534,44234,293,2961
+Jul-20,Credit,USD,USD,20846,264993,2012,38874
+Jul-20,Credit,Other Currencies,Other Currencies,1902,20677,592,5067
+Jul-20,Foreign Exchange,USD,AUD,45692,580676,39053,1073739
+Jul-20,Foreign Exchange,USD,CNY,77175,1267360,49380,861221
+Jul-20,Foreign Exchange,USD,EUR,82904,792002,65617,1731068
+Jul-20,Foreign Exchange,USD,GBP,46015,285569,37698,761994
+Jul-20,Foreign Exchange,USD,HKD,23035,652920,18624,824613
+Jul-20,Foreign Exchange,USD,INR,76731,562577,57206,345343
+Jul-20,Foreign Exchange,USD,JPY,72315,1807189,47082,2455920
+Jul-20,Foreign Exchange,USD,KRW,55375,507837,40542,270978
+Jul-20,Foreign Exchange,USD,SGD,47746,792938,42607,1592198
+Jul-20,Foreign Exchange,USD,TWD,49390,511718,33807,280321
+Jul-20,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,297890,1914382,251994,2180290
+Jul-20,Interest Rate (Cross Currency Swap),USD,AUD,7751,580551,753,37551
+Jul-20,Interest Rate (Cross Currency Swap),USD,CNY,2889,47619,52,469
+Jul-20,Interest Rate (Cross Currency Swap),USD,EUR,2822,150635,88,6651
+Jul-20,Interest Rate (Cross Currency Swap),USD,GBP,456,30971,7,687
+Jul-20,Interest Rate (Cross Currency Swap),USD,HKD,3030,85668,54,2408
+Jul-20,Interest Rate (Cross Currency Swap),USD,INR,3640,39120,209,4033
+Jul-20,Interest Rate (Cross Currency Swap),USD,JPY,7019,566940,273,33480
+Jul-20,Interest Rate (Cross Currency Swap),USD,KRW,1168,31736,18,406
+Jul-20,Interest Rate (Cross Currency Swap),USD,NZD,1499,114660,278,19553
+Jul-20,Interest Rate (Cross Currency Swap),USD,SGD,9025,269738,384,15120
+Jul-20,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5763,119506,188,4453
+Jul-20,Interest Rate (excluding Cross Currency Swap),AUD,AUD,38070,2838091,3449,447980
+Jul-20,Interest Rate (excluding Cross Currency Swap),HKD,HKD,13066,410176,1244,33703
+Jul-20,Interest Rate (excluding Cross Currency Swap),INR,INR,27023,870066,2512,97254
+Jul-20,Interest Rate (excluding Cross Currency Swap),JPY,JPY,33664,2240419,1605,164709
+Jul-20,Interest Rate (excluding Cross Currency Swap),KRW,KRW,39847,1595112,2691,107201
+Jul-20,Interest Rate (excluding Cross Currency Swap),MYR,MYR,9471,220066,847,24023
+Jul-20,Interest Rate (excluding Cross Currency Swap),NZD,NZD,11705,851733,2198,203773
+Jul-20,Interest Rate (excluding Cross Currency Swap),SGD,SGD,61309,1781939,8108,273541
+Jul-20,Interest Rate (excluding Cross Currency Swap),THB,THB,24890,608650,1862,43708
+Jul-20,Interest Rate (excluding Cross Currency Swap),USD,USD,79165,3257653,6339,662507
+Jul-20,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,42466,1256329,4731,412052
+Aug-20,Credit,EUR,EUR,1455,44246,143,1925
+Aug-20,Credit,USD,USD,21288,272561,1240,31965
+Aug-20,Credit,Other Currencies,Other Currencies,2067,23869,422,8383
+Aug-20,Foreign Exchange,USD,AUD,45631,559431,34226,979886
+Aug-20,Foreign Exchange,USD,CNY,79346,1318085,42574,850608
+Aug-20,Foreign Exchange,USD,EUR,83268,875632,59093,1804191
+Aug-20,Foreign Exchange,USD,GBP,45791,279443,32182,720094
+Aug-20,Foreign Exchange,USD,HKD,23218,663509,16602,758048
+Aug-20,Foreign Exchange,USD,INR,82032,631715,54423,350806
+Aug-20,Foreign Exchange,USD,JPY,75729,1893943,45912,2091722
+Aug-20,Foreign Exchange,USD,KRW,57841,509141,37193,251414
+Aug-20,Foreign Exchange,USD,SGD,50395,855880,40852,1433657
+Aug-20,Foreign Exchange,USD,TWD,49504,519684,30698,257840
+Aug-20,Foreign Exchange,Other Currency Pairs,Other Currency Pairs ,314891,1964049,244359,2182216
+Aug-20,Interest Rate (Cross Currency Swap),USD,AUD,7710,563221,307,23675
+Aug-20,Interest Rate (Cross Currency Swap),USD,CNY,2879,47215,65,950
+Aug-20,Interest Rate (Cross Currency Swap),USD,EUR,2823,145330,64,4000
+Aug-20,Interest Rate (Cross Currency Swap),USD,GBP,458,30075,8,346
+Aug-20,Interest Rate (Cross Currency Swap),USD,HKD,3067,94281,101,11212
+Aug-20,Interest Rate (Cross Currency Swap),USD,INR,3697,39756,93,1156
+Aug-20,Interest Rate (Cross Currency Swap),USD,JPY,7084,561496,267,27232
+Aug-20,Interest Rate (Cross Currency Swap),USD,KRW,1181,32686,29,1781
+Aug-20,Interest Rate (Cross Currency Swap),USD,NZD,1520,110930,117,7895
+Aug-20,Interest Rate (Cross Currency Swap),USD,SGD,9065,270768,198,10127
+Aug-20,Interest Rate (Cross Currency Swap),Other Currency Pairs,Other Currency Pairs ,5853,120263,209,3537
+Aug-20,Interest Rate (excluding Cross Currency Swap),AUD,AUD,37101,2784644,4391,405420
+Aug-20,Interest Rate (excluding Cross Currency Swap),HKD,HKD,14039,443354,977,40476
+Aug-20,Interest Rate (excluding Cross Currency Swap),INR,INR,28337,906573,3239,108525
+Aug-20,Interest Rate (excluding Cross Currency Swap),JPY,JPY,31692,1974197,1290,194536
+Aug-20,Interest Rate (excluding Cross Currency Swap),KRW,KRW,41356,1630571,3222,171450
+Aug-20,Interest Rate (excluding Cross Currency Swap),MYR,MYR,9734,227511,672,19545
+Aug-20,Interest Rate (excluding Cross Currency Swap),NZD,NZD,12618,1028833,2043,301475
+Aug-20,Interest Rate (excluding Cross Currency Swap),SGD,SGD,64507,1852271,6311,175800
+Aug-20,Interest Rate (excluding Cross Currency Swap),THB,THB,24283,604161,1830,56372
+Aug-20,Interest Rate (excluding Cross Currency Swap),USD,USD,80659,3126486,7469,559883
+Aug-20,Interest Rate (excluding Cross Currency Swap),Other Currencies,Other Currencies,44764,1332296,3212,162001
